@@ -6,7 +6,7 @@ class AreaOfRectangle{
 	Scanner sc = new Scanner(System.in);
 	int l = sc.nextInt();
 	int w = sc.nextInt();
-	int area = 2*(l+w);
+	int area = l*w;
 	System.out.println("Area of Rectangle : " + area);
 
 }
