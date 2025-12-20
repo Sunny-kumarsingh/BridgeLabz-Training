@@ -1,5 +1,7 @@
 import java.util.*;
 
+//program for Sum of numbers
+
 public class SumOfNumber{
 	public static void main(String args[]){
 		//Creating object
@@ -7,15 +9,15 @@ public class SumOfNumber{
 		
 		//take input
         System.out.println("Enter number : ");
-        int number = s.nextInt();
+        Double number = s.nextDouble();
 
 		int total =0;
 		//count the counter
         while (number != 0) {
             total = total + number;
-			System.out.println("Enter Zero to stop the loop");
+			System.out.println("Enter 0 to stop the loop");
 			System.out.println("Enter number : ");
-			number = s.nextInt();
+			number = s.nextDouble();
        
 		}
 		System.out.println(total);

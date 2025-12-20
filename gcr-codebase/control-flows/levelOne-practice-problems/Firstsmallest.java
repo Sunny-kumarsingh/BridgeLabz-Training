@@ -14,7 +14,7 @@ public class FirstSmallest{
 		int n2 = s.nextInt();
 		int n3 = s.nextInt();
 		
-		//check the input is divisible by 5 or not
+		//check the input is first smallest
 		if((n1<n2) && (n1<n2) && (n1<n3)){
 			System.out.println("Is the first number the smallest? Yes" );
 		}

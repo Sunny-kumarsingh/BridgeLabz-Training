@@ -16,7 +16,7 @@ public class SumZeroOrNegative {
         while (true) {
 			System.out.println("Enter 0 to stop the while loop");
             System.out.print("Enter a number: ");
-            int num = s.nextInt();
+             num = s.nextInt();
 
             // break condition
             if (num <= 0) {

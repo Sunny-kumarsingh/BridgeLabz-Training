@@ -1,5 +1,7 @@
 import java.util.Scanner;
+
 // rewrite the problem no. 8 using For-Loop
+
 public class ForLoop {
     public static void main(String[] args) {
 	

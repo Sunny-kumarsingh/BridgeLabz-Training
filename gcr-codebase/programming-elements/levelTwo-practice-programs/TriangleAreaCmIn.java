@@ -10,7 +10,7 @@ public class TriangleAreaCmIn {
         double base = sc.nextDouble();
 
         System.out.print("Enter height of triangle in cm: ");
-        double height = input.nextDouble();
+        double height = sc.nextDouble();
 
         // Area in square centimeters
         double areaSqCm = 0.5 * base * height;
@@ -21,6 +21,6 @@ public class TriangleAreaCmIn {
         System.out.println("The Area of the triangle in sq in is " 
                 + areaSqIn + " and sq cm is " + areaSqCm);
 
-        input.close();
+
     }
 }
