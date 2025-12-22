@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class CalendarProgram {
 
-    // Month name
+    // Month name                 
     static String getMonthName(int month) {
         String[] months = {
             "January", "February", "March", "April",
