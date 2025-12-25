@@ -1,14 +1,29 @@
 # BridgeLabz Training Progress Log
 
-**This repository tracks my daily learning journey during the BridgeLabz Java Full Stack Program.**
 
----
+## Week 1 : Git, GitHub & Java Programming Fundamentals ##
+
+
 
 ##  Day 1 – Git & GitHub Setup
-**Date:** 15-Dec-2025
+**Date:** 16-Dec-2025
 
 - Installed and configured Git
 - Set up GitHub repository
+- BridgeLabz-Training/
+├── core-java-practice/
+│   ├── gcr-codebase/
+│   │   ├── arrays/
+│   │   ├── extra/
+|   |   |   ├── builtin-functions/
+|   |   |   ├── string-handling/
+│   │   ├── control-flow/
+│   │   ├── java-methods/
+│   │   ├── programming-elements/
+│   │   └── strings/
+│   ├── leet-code-codebase/
+│   └── scenario-based/
+└── README.md
 - Learned Git commands: `init`, `status`, `add`, `commit`, `push`
 - Pushed initial files to GitHub  
 - **Code Link:** [gcr-codebase](./core-java-practice/gcr-codebase)
@@ -16,7 +31,7 @@
 ---
 
 ##  Day 2 – Git Practice & Basic Java Programs
-**Date:** 16-Dec-2025
+**Date:** 17-Dec-2025
 
 - Practiced Git workflow
 - Solved basic Java programs
@@ -26,7 +41,7 @@
 ---
 
 ## Day 3 - Programming Elements in Java
-**Date:** 17-Dec-2025
+**Date:** 18-Dec-2025
 
 - Learned variables, data types, operators, user input/output
 - Solved practice problems
@@ -36,7 +51,7 @@
 ---
 
   ## Day 4 - Control Flow
-**Date:** 18-Dec-2025
+**Date:** 19-Dec-2025
 
 - Practiced if, else, switch, for-loop, while-loop, do-while-loop
 - Implemented decision-making problems
@@ -45,7 +60,7 @@
 ---
 
 ## Day 5 - Arrays
-**Date :** 19-Dec-2025
+**Date :** 20-Dec-2025
 
 - Learn array initialization, implementation and memory allocation
 - Practice of 1D, 2D array
@@ -55,7 +70,7 @@
 ---
 
   ## Day 6 - Methods
-**Date:** 20-Dec-2025
+**Date:** 22-Dec-2025
 
 - Practiced UserDefined Methods, Using methods multiple times
 - Learned about Java.lang.Math Class
@@ -65,7 +80,7 @@
 ---
 
   ## Day 7 - Strings
-**Date:** 22-Dec-2025
+**Date:** 23-Dec-2025
 
 - Practiced Java Strings, create Strings, Take String input
 - Learned String Arrays, String as method parameter, built-in methods, exeception
@@ -73,7 +88,7 @@
 - **Code Link:** [String](./core-java-practice/gcr-codebase/strings)
 
  ## Day 8 - Extra
-**Date:** 23-Dec-2025
+**Date:** 24-Dec-2025
 
 - Practiced extra built-in methods
 - Learned math.random, math.pow(),etc
