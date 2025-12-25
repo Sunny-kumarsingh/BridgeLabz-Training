@@ -10,20 +10,8 @@
 
 - Installed and configured Git
 - Set up GitHub repository
-- BridgeLabz-Training/
-├── core-java-practice/
-│   ├── gcr-codebase/
-│   │   ├── arrays/
-│   │   ├── extra/
-|   |   |   ├── builtin-functions/
-|   |   |   ├── string-handling/
-│   │   ├── control-flow/
-│   │   ├── java-methods/
-│   │   ├── programming-elements/
-│   │   └── strings/
-│   ├── leet-code-codebase/
-│   └── scenario-based/
-└── README.md
+- <img width="729" height="559" alt="image" src="https://github.com/user-attachments/assets/0d4ea2ec-e862-4f96-aa3c-b533e3a80438" />
+
 - Learned Git commands: `init`, `status`, `add`, `commit`, `push`
 - Pushed initial files to GitHub  
 - **Code Link:** [gcr-codebase](./core-java-practice/gcr-codebase)
