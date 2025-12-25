@@ -72,7 +72,7 @@
 - Implemented exception, checked or Unchecked exception
 - **Code Link:** [String](./core-java-practice/gcr-codebase/strings)
 
--  ## Day 8 - Extra
+ ## Day 8 - Extra
 **Date:** 23-Dec-2025
 
 - Practiced extra built-in methods
