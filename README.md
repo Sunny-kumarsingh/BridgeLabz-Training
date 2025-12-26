@@ -33,7 +33,7 @@ BridgeLabz-Training/
 
 - Learned Git commands: `init`, `status`, `add`, `commit`, `push`
 - Pushed initial files to GitHub  
-- **Code Link:** [gcr-codebase](./core-java-practice/gcr-codebase)
+- **Code Link:** [gcr-codebase](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase)
 
 ---
 
@@ -43,7 +43,7 @@ BridgeLabz-Training/
 - Practiced Git workflow
 - Solved basic Java programs
 - Committed and pushed Java files  
-- **Code Link:** [program-prerequisite](./core-java-practice/gcr-codebase/program-prerequisite)
+- **Code Link:** [program-prerequisite](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite)
 
 ---
 
@@ -53,7 +53,7 @@ BridgeLabz-Training/
 - Learned variables, data types, operators, user input/output
 - Solved practice problems
 - Pushed solutions to GitHub
-- **Code Link:** [programming-elements](./core-java-practice/gcr-codebase/programming-elements)
+- **Code Link:** [programming-elements](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
 ---
 
@@ -62,7 +62,7 @@ BridgeLabz-Training/
 
 - Practiced if, else, switch, for-loop, while-loop, do-while-loop
 - Implemented decision-making problems
-- **Code Link:** [control-flows](./core-java-practice/gcr-codebase/control-flows)
+- **Code Link:** [control-flows](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
 
 ---
 
@@ -72,7 +72,7 @@ BridgeLabz-Training/
 - Learn array initialization, implementation and memory allocation
 - Practice of 1D, 2D array
 - help in understanding the memory allocation
-- **Code Link :**[arrays](./core-java-practice/gcr-codebase/arrays)
+- **Code Link :**[arrays](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ---
 
@@ -82,7 +82,7 @@ BridgeLabz-Training/
 - Practiced UserDefined Methods, Using methods multiple times
 - Learned about Java.lang.Math Class
 - Implemented in problems to make more dynamic
-- **Code Link:** [methods](./core-java-practice/gcr-codebase/methods)
+- **Code Link:** [methods](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
 
 ---
 
@@ -92,11 +92,11 @@ BridgeLabz-Training/
 - Practiced Java Strings, create Strings, Take String input
 - Learned String Arrays, String as method parameter, built-in methods, exeception
 - Implemented exception, checked or Unchecked exception
-- **Code Link:** [String](./core-java-practice/gcr-codebase/strings)
+- **Code Link:** [String](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
 
  ## Day 8 - Extra
 **Date:** 24-Dec-2025
 
 - Practiced extra built-in methods
 - Learned math.random, math.pow(),etc
-- **Code Link:** [extras](./core-java-practice/gcr-codebase/extras)
+- **Code Link:** [extras](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
