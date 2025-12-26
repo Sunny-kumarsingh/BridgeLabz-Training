@@ -10,7 +10,26 @@
 
 - Installed and configured Git
 - Set up GitHub repository
-- <img width="729" height="559" alt="image" src="https://github.com/user-attachments/assets/0d4ea2ec-e862-4f96-aa3c-b533e3a80438" />
+- 
+  
+```text
+  
+BridgeLabz-Training/
+├── core-java-practice/
+│   ├── gcr-codebase/
+│   │   ├── arrays/
+│   │   ├── extra/
+|   │   │   ├── string-handling/
+|   │   │   ├── builtin-functions/
+│   │   ├── control-flow/
+│   │   ├── java-methods/
+│   │   ├── programming-elements/
+│   │   └── strings/
+│   ├── leet-code-codebase/
+│   └── scenario-based/
+└── README.md
+
+```  
 
 - Learned Git commands: `init`, `status`, `add`, `commit`, `push`
 - Pushed initial files to GitHub  
