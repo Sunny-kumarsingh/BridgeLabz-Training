@@ -14,6 +14,7 @@ public class HandBook {
 	}
 	
 	
+	
 	//creating the method to display the output
 	public void displayBookDetails() {
 		System.out.println("Title of the book: "+bookTitle);
