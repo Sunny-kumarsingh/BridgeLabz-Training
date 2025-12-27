@@ -6,7 +6,7 @@
 
 
 ##  Day 1 – Git & GitHub Setup
-**Date:** 27-Dec-2025
+**Date:** 26-Dec-2025
 
 - Eclipse install and setup 
 - Created java oops practice branch
