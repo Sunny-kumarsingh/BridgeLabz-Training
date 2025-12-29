@@ -100,3 +100,10 @@ BridgeLabz-Training/
 - Practiced extra built-in methods
 - Learned math.random, math.pow(),etc
 - **Code Link:** [extras](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+
+-  ## Day 9 - Extra
+**Date:** 229-Dec-2025
+
+- Practiced scenario-based-codebase
+-solved 5 questions
+- **Code Link:** [extras](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
