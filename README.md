@@ -10,10 +10,10 @@
 
 - Installed and configured Git
 - Set up GitHub repository
-- 
-  
+-
+
 ```text
-  
+
 BridgeLabz-Training/
 ├── core-java-practice/
 │   ├── gcr-codebase/
@@ -29,10 +29,10 @@ BridgeLabz-Training/
 │   └── scenario-based/
 └── README.md
 
-```  
+```
 
 - Learned Git commands: `init`, `status`, `add`, `commit`, `push`
-- Pushed initial files to GitHub  
+- Pushed initial files to GitHub
 - **Code Link:** [gcr-codebase](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase)
 
 ---
@@ -42,7 +42,7 @@ BridgeLabz-Training/
 
 - Practiced Git workflow
 - Solved basic Java programs
-- Committed and pushed Java files  
+- Committed and pushed Java files
 - **Code Link:** [program-prerequisite](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite)
 
 ---
