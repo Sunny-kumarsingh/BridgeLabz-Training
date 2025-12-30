@@ -102,7 +102,7 @@ BridgeLabz-Training/
 - **Code Link:** [extras](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
 
 -  ## Day 9 - scenario-base-practice
-**Date:** 229-Dec-2025
+**Date:** 29-Dec-2025
 
 - Practiced scenario-based-codebase
 -solved 5 questions
