@@ -21,3 +21,11 @@
 - practice problem on constructor
 - submit all the assignment of constructor
 -  **Code Link:** [constructor](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors/levelone)
+
+##  Day 3 – keywords and instanceof operator
+*Date:* 29-Dec-2025
+
+- learned about this,static keyword 
+- learned the use of final keyword
+- practiced instanceOf operator
+-*Code Link:* [this- static](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/thisstatic/levelone)
