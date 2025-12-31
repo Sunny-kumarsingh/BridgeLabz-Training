@@ -108,7 +108,7 @@ BridgeLabz-Training/
 - created programs using switch case and if-else
 -  *Code Link:* [scenario-based]( https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
--  -  ## Day 10 - leetcode problems
+-  ## Day 10 - leetcode problems
 *Date:* 28-Dec-2025
 
 - Practiced arrays questions
@@ -124,7 +124,7 @@ BridgeLabz-Training/
 - used different types of loops
 -  *Code Link:* [scenario-based]( https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
--  -  ## Day 12 - Scenario based questions
+-  ## Day 12 - Scenario based questions
 *Date:* 29-Dec-2025
 
 - Practiced scenario based questions
