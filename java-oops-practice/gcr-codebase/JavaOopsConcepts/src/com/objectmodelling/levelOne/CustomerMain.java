@@ -1,4 +1,4 @@
-package com.objectmodelling;
+package com.objectmodelling.levelOne;
 
 public class CustomerMain {
     public static void main(String[] args) {

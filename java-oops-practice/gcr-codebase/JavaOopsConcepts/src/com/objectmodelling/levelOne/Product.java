@@ -1,4 +1,4 @@
-package com.objectmodelling;
+package com.objectmodelling.levelOne;
 
 class Product {
     private int productId;

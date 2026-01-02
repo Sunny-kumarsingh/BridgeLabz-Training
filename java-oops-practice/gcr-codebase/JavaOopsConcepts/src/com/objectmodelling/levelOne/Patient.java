@@ -1,4 +1,4 @@
-package com.objectmodelling;
+package com.objectmodelling.levelOne;
 
 import java.util.ArrayList;
 import java.util.List;
