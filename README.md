@@ -30,7 +30,7 @@
 - practiced instanceOf operator
 -*Code Link:* [this- static](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/thisstatic/levelone)
 
-## 🗓 Day 4 – OOPs Relationships & UML Basics  
+##  Day 4 – OOPs Relationships & UML Basics  
 **Date:** 30-Dec-2025  
 
 - Learned **Classes vs Objects** in Java  
@@ -38,17 +38,13 @@
 - Implemented OOP relationships:
   - Association
   - Aggregation
-  - Composition  
-- Solved:
-  - Library & Books (Aggregation)
-  - Bank & Customers (Association)
-  - Company & Departments (Composition)  
+  - Composition
+  - practice questions 
 - Implemented Java code & pushed to GitHub  
+-*Code Link:* [object-modelling](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling)
 
-🔗 **Code:** OOPs Relationships & UML Basics
 
-
-## 🗓 Day 5 – OOPs Inheritance (All Types)  
+##  Day 5 – OOPs Inheritance (All Types)  
 **Date:** 31-Dec-2025  
 
 - Studied **Inheritance** in Java and its role in code reusability  
@@ -62,10 +58,10 @@
 - Solved multiple inheritance-based problems  
 - Implemented Java programs & pushed to GitHub  
 
-🔗 **Code:** Inheritance in Java
+**Code Link :** [inheritance](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
 
 
-## 📅 Day 6 – OOPS Principles  
+## Day 6 – OOPS Principles  
 **Date:** 1 January 2026  
 
 - Practiced **Encapsulation** using private fields, getters/setters, and immutability  
@@ -75,4 +71,4 @@
 - Followed clean code practices and Java naming conventions  
 - Solved multiple OOPS-based Java programs  
 
-🔗 **Code:** Encapsulation, Polymorphism, Interfaces & Abstract Classes
+**Code Link :** [encapsulation](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulationpolymorphisminterfaceandabstract)
