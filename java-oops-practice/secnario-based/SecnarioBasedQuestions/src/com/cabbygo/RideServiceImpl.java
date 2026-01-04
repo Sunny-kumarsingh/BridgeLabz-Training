@@ -18,6 +18,6 @@ public class RideServiceImpl implements IRideService {
     @Override
     public void endRide() {
         System.out.println("Ride Ended ");
-        System.out.println("Total Fare Paid : ₹" + fare);
+        System.out.println("Total Fare Paid : INR " + fare);
     }
 }
