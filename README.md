@@ -11,6 +11,22 @@
 - Eclipse install and setup 
 - Created java oops practice branch
 - submit all the assignment of class and object
+```
+- java-oops-practice/
+│
+├── gcr-codebase/
+│ ├── JavaOopsConcepts/
+│ │ └── src/
+│ │ ├── com/
+│ │ │ ├── classandobject/
+│ │ │ └── constructorandaccessmodifiers/
+│ │ │
+│ │ └── module-info.java
+│ │
+│ └── .gitignore
+│
+└── README.md
+```
 - **Code Link:** [class and object](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase]psConcepts/src/com/classandobject)
 
 ##  Day 2 – Constructor
