@@ -5,16 +5,12 @@
 - Introduction to Data Structures in Java  
 - Types of Data Structures  
 - Singly, Doubly, and Circular Linked Lists  
-
-###  Key Learnings
 - Singly Linked List: One-way traversal, efficient insertion/deletion  
 - Doubly Linked List: Two-way traversal, extra memory usage  
 - Circular Linked List: No `NULL`, useful for scheduling  
-
-### Practice Summary
 - Implemented insertion, deletion, and traversal  
 - Improved understanding of nodes and pointers  
 - Strengthened problem-solving skills  
 
-🔗 **Code Link:**  
-[Linked List and Its Types](./java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com)
+**Code Link:**  
+[Linked List and Its Types](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linkedlist)
