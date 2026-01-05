@@ -1,4 +1,4 @@
-package com.bankmanagementsystem;
+package com.hospitalmanagementsystem;
 
 public class HospitalMain {
 	public static void main(String[] args) {

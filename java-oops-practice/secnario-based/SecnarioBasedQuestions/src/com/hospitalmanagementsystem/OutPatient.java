@@ -1,4 +1,4 @@
-package com.bankmanagementsystem;
+package com.hospitalmanagementsystem;
 
 class OutPatient extends Patient {
 
