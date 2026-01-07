@@ -14,3 +14,21 @@
 
 **Code Link:**  
 [Linked List and Its Types](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linkedlist)
+
+## Day 2 – Stacks, Queues and HashMaps
+Date: 4-jan-2026
+
+  * implemented stacks
+  * learned about types of queues
+  * practiced hashmap and hash functions
+  * Code Link: [stacks-queues-hashmaps](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/)
+
+* * *
+
+## Day 3 - Sorting algorithm
+Date: 5-jan-2026
+
+  * implemented bubble sort
+  * quick sort, insertion sort
+  * merge sort
+  * Code Link: [sorting algorithm](gcr-codebase/sorting%20algorithm)
