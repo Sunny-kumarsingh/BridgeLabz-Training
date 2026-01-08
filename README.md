@@ -46,11 +46,7 @@ Date: 16-Dec-2025
   - User Input and Output
 - Solved practice problems based on programming elements.
 - Committed and pushed solutions to the repository.
-
-
 **🔗 Code Link:** [ Programming Elements in Java](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
-
-
 
 ---  
 
@@ -68,7 +64,7 @@ Date: 16-Dec-2025
   - Prime Number Check
 
 
-**🔗 Code Link:** [ Control Flow & Logical Constructs](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows) 
+**🔗 Code Link:** [ Control Flow & Logical Constructs](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows) 
 
 ---
 
@@ -80,11 +76,9 @@ Date: 16-Dec-2025
   - Multi-dimensional arrays
 - Practiced array traversal and operations.
 - Solved problems:
-  - Finding missing elements
-  - Basic array logic
-
-
-**🔗 Code Link:** [ Arrays & Basic Problem Solving](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+- Finding missing elements
+- Basic array logic
+**🔗 Code Link:** [ Arrays & Basic Problem Solving](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ---
 
@@ -96,7 +90,7 @@ Date: 16-Dec-2025
   - Parameter passing
 - Practiced reusable logic using methods.
 
-**🔗 Code Link:** [ Methods & Basic Problem Solving](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/String)
+**🔗 Code Link:** [ Methods & Basic Problem Solving](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
 
 ---
 
@@ -110,11 +104,9 @@ Date: 16-Dec-2025
   - Practiced UserDefined Methods, Using methods multiple times
   - Learned about Java.lang.Math Class
     
-**🔗 Code Link:** [ String & Basic Problem Solving ](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods) 
-
+**🔗 Code Link:** [ String & Basic Problem Solving ](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
 
 ---
-
 
 ## Day 8 – Built-in Functions & Extra Practice  
  **Date**: 24-Dec-2025
@@ -127,12 +119,9 @@ Date: 16-Dec-2025
   - Type conversion
 - Organized programs into appropriate folders.
 
-** Code Link:** [Built-in Functions & Extra Practice ](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)
+** Code Link:** [Built-in Functions & Extra Practice ](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
 
 ---
-
-
-## Section B
 
 ###  Day 9 – Scenario Based Problems  
 **Date:** 26-Dec-2025
@@ -141,7 +130,6 @@ Date: 16-Dec-2025
 3. Raj’s Result Generator
 4. Coffee Price Calculator
 5. BMI Calculator
-   
 **Concepts:** if-else, switch, Array, String  
 **Loops:** for, while, do-while  
 **Operators:** ternary  
@@ -149,28 +137,18 @@ Date: 16-Dec-2025
 **Output:** Console  
 **Status:** Completed & pushed to GitHub  
 
-** Code Link:** [Scenario Based Problems](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+- **Code Link:** [scenario-based]( https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
 
 
-###  Day 10 – Scenario Based Problems  
-**Date:** 29-Dec-2025  
+-  ## Day 10 - leetcode problems
+*Date:* 28-Dec-2025
 
-6. Parking Lot Gate System 
-7. The Number Guessing Game 
-8. Shopkeeper’s Discount Dashboard 
-9. School Bus Attendance System 
-10. Phone Recharge Simulator 
+- Practiced arrays questions
+- Implemented decision-making problems
+- *Code Link:* [leetcode-codebase](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays-practice-problem)
 
-**Concepts:** if-else, switch, Array, String  
-**Loops:** for, while, do-while  
-**Operators:** ternary  
-**Input:** Scanner  
-**Output:** Console  
-**Status:** Completed & pushed to GitHub  
-
-** Code Link:**  [Scenario Based Problems](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
 
@@ -190,7 +168,7 @@ Date: 16-Dec-2025
 **Output:** Console  
 **Status:** Completed & pushed to GitHub  
 
-** Code Link:** [Scenario Based Problems](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+** Code Link:** [scenario-based]( https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
 
@@ -208,9 +186,10 @@ Date: 16-Dec-2025
 **Output:** Console  
 **Status:** Completed & pushed to GitHub  
 
-** Code Link:** [Scenario Based Problems](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+** Code Link:** [Scenario Based Problems]( https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
+
 ## Week 2: Java OOPS Practice
 ### Day 13 – Java OOPS Initial Setup  & Learn Class and Object
 **Date: 26-Dec-2025**
@@ -245,7 +224,7 @@ java-oops-practice/
 - Accessing variables and methods using objects
 - Basic real-world examples using classes
   
-**Code Link:**  [Java OOPS Initial Setup  & Learn Class and Object](https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
+**Code Link:**  [Java OOPS Initial Setup  & Learn Class and Object](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase]psConcepts/src/com/classandobject)
 
 ---
 
@@ -275,7 +254,7 @@ java-oops-practice/
 - Bank Account Management System
 - Employee Records System ..... etc.
   
-**🔗 Code Link:** [Constructors & Access Modifiers ](https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructorandacessmodifers/)
+**🔗 Code Link:** [Constructors & Access Modifiers ](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors/levelone)
 
   ---
   
@@ -308,7 +287,7 @@ java-oops-practice/
 - Practiced writing clean and structured Java programs  
 - Followed proper naming conventions  
   
-**🔗 Code Link:** [Java Keywords & Operators  ](https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/keywordandoperator/level1)
+**🔗 Code Link:** [Java Keywords & Operators  ](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/thisstatic/levelone)
 
 ---
 
@@ -330,7 +309,7 @@ java-oops-practice/
   - Company & Departments (Composition)
 - Implemented Java code and pushed to GitHub
   
-**🔗 Code Link:** [OOPs Relationships & UML Basics](https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling)
+**🔗 Code Link:** [OOPs Relationships & UML Basics](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling)
   
 ---
 
@@ -362,7 +341,7 @@ java-oops-practice/
 - Inheritance enables runtime polymorphism.
 - Method calls are resolved based on object type, not reference type.
 - Access Modifiers and Inheritance
-**🔗 Code link:** [Inheritance in java](https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+**🔗 Code link:** [Inheritance in java](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
  
 ---
 
@@ -396,7 +375,9 @@ java-oops-practice/
 - Followed Java naming conventions and clean coding practices  
 - Focused on readability, maintainability, and design principles
 
-**Code link:** [Encapsulation, Polymorphism, Interfaces & Abstract Classes ](https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulationpolymorphisminterfaceandabstract)  
+**Code link:** [Encapsulation, Polymorphism, Interfaces & Abstract Classes ](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulationpolymorphisminterfaceandabstract)  
+
+---
 
 ## Scenario Based Question solved  
 1. Hospital Patient Management System
@@ -415,7 +396,7 @@ java-oops-practice/
 **Output:** Console  
 **Status:** Completed & pushed to GitHub  
 
-**Code link:**[Oops Scenario-based questions](https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopsscenariocodebase/src/com)
+**Code link:**[Oops Scenario-based questions]()
 
 
 ## Day 19: Scenario Based Question solved 
@@ -429,7 +410,7 @@ java-oops-practice/
 **Output:** Console  
 **Status:** Completed & pushed to GitHub  
 
-**Code link:**[Oops Scenario-based questions](https://github.com/Saud0786/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oopsscenariocodebase/src/com)
+**Code link:**[Oops Scenario-based questions]()
 
 ---
 
@@ -467,7 +448,7 @@ java-oops-practice/
 - Strengthened understanding of linear data structures  
 - Focused on problem-solving and logical implementation  
 
-**Code Link:** [LinkedList and its types](https://github.com/Saud0786/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linkedlist)
+**Code Link:** [LinkedList and its types]()
 
 ---
 
@@ -498,7 +479,7 @@ java-oops-practice/
 - Understood working of hashing functions and collision handling  
 - Focused on time complexity and performance optimization  
 
-**Code Link:** [Hashmap, Stack & Queue](https://github.com/Saud0786/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com)
+**Code Link:** [Hashmap, Stack & Queue]()
 
 ---
 
@@ -517,7 +498,7 @@ java-oops-practice/
 - Counting Sort
 - Radix Sort
 - Bucket Sort
-**Code Link :** [Sorting algorithms](https://github.com/Saud0786/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sorts)
+**Code Link :** [Sorting algorithms]()
 
 ---
 
@@ -526,9 +507,6 @@ java-oops-practice/
 - StringBuilder and StringBuffer
 - FileReader
 -  InputStreamReader
-**Code Link :** [String Handling & File I/O in Java ](https://github.com/Saud0786/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com)
+**Code Link :** [String Handling & File I/O in Java ]()
 
 ---
-
-
-
