@@ -88,3 +88,31 @@
 - Solved multiple OOPS-based Java programs  
 
 **Code Link :** [encapsulation](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulationpolymorphisminterfaceandabstract)
+
+## Day 7 – OOP scenarios based  
+**Date:** 2 January 2026  
+
+## Day 8 – OOP scenarios based
+**Date:** 3 January 2026  
+- CabbyGo – A Ride-Hailing App in the Making
+- MyBank – Managing Customer Accounts
+
+
+## Day 9 – OOP scenarios based  
+**Date:** 5 January 2026  
+- SwiftCart – The Grocery Shopping App
+- CampusConnect – College Information System
+
+## Day 10 – OOP scenarios based  
+**Date:** 6 January 2026  
+- EduMentor – Personalized Learning Platform
+- FitTrack – Your Personal Fitness Tracker
+- PetPal – Virtual Pet Care App
+- EventEase – Event Management Platform
+
+## Day 11 – OOP scenarios based  
+**Date:** 7 January 2026  
+- BookBazaar – Digital Bookstore System
+- LoanBuddy – Loan Approval Automation"
+- ParkEase – Smart Parking Management System
+
