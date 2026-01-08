@@ -33,7 +33,7 @@ Date: 16-Dec-2025
 - Solved basic Java programs to learn syntax and structure.
 - Practiced adding, committing, and pushing Java files to GitHub.
 
-**🔗 Code Link:** [ Git Practice & Basic Java Programs](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Program-Prerequisites)
+**🔗 Code Link:** [ Git Practice & Basic Java Programs](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite)
 
 ---
 
@@ -48,7 +48,9 @@ Date: 16-Dec-2025
 - Committed and pushed solutions to the repository.
 
 
-**🔗 Code Link:** [ Programming Elements in Java](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+**🔗 Code Link:** [ Programming Elements in Java](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+
+
 
 ---  
 
@@ -110,7 +112,7 @@ Date: 16-Dec-2025
     
 **🔗 Code Link:** [ String & Basic Problem Solving ](https://github.com/Saud0786/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods) 
 
-### Week end
+
 ---
 
 
