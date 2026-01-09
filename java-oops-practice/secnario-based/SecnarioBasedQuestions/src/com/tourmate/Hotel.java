@@ -1,4 +1,5 @@
 package com.tourmate;
+
 public class Hotel {
 
     private double cost;

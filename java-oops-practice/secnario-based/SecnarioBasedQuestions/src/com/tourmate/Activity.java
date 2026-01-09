@@ -1,4 +1,6 @@
 package com.tourmate;
+
+
 public class Activity {
 
     private double cost;
