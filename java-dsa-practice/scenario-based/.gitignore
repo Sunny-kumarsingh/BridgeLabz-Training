@@ -1,0 +1,24 @@
+/.metadata/
+
+
+# ===== Eclipse specific =====
+.metadata/
+.recommenders/
+.settings/
+.classpath
+.project
+
+# ===== Build output =====
+bin/
+
+# ===== OS / System =====
+.DS_Store
+Thumbs.db
+
+# ===== Logs =====
+*.log
+
+# ===== Temporary files =====
+*.tmp
+*.bak
+*.swp
