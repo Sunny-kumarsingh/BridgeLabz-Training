@@ -57,7 +57,7 @@ Date: 5-jan-2026
 
 **Code Link:** [linear-Search](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linearandbinarysearch)
 
-## Day 6 –fileReader and InputReader 
+## Day 6 – Scenario Based Problems in DSA 
 **Date:** 11-Jan-2026  
 - Practiced **scenario-based problems** using core **Data Structures**
 - Applied **Linked List, Stack, Queue, HashMap, Set**
