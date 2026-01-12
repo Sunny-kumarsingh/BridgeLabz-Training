@@ -32,3 +32,28 @@ Date: 5-jan-2026
   * quick sort, insertion sort
   * merge sort
   * Code Link: [sorting algorithm](gcr-codebase/sorting%20algorithm)
+
+
+## Day 4 – Linear and binary Search  
+**Date:** 7-Jan-2026  
+
+### Topics Covered
+- Implemented **Linear Search**
+- Practiced **Binary Search**
+- Explored **StringBuilder & StringBuffer**
+- Used file handling classes:
+
+ **Code Link:** [linear-Search](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linearandbinarysearch)
+
+---
+
+## Day 5 –fileReader and InputReader 
+**Date:** 10-Jan-2026  
+
+### Topics Covered
+- Sorting algorithm **time complexities**
+- File reading performance comparison
+- filereader and output reader
+
+**Code Link:** [linear-Search](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linearandbinarysearch)
+
