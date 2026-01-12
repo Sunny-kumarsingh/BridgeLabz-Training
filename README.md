@@ -510,3 +510,85 @@ java-oops-practice/
 **Code Link :** [String Handling & File I/O in Java ]()
 
 ---
+##  Day 24 – Searching and Strings  
+**Date:** 7-Jan-2026  
+
+### Topics Covered
+- Implemented **Linear Search**
+- Practiced **Binary Search**
+- Explored **StringBuilder & StringBuffer**
+- Compared file reading using:
+  - `FileReader`
+  - `InputStreamReader`
+  - `BufferedReader`
+
+ **Code Link:** 
+
+---
+
+##  Day 25 – OOP Scenario-Based Programs  
+**Date:** 7-Jan-2026  
+
+### Concepts Applied
+- Used **Interfaces**
+- Created scenario-based applications:
+  - `LoanBuddy`
+  - `BookBazaar`
+  - `ParkEase`
+- Implemented **Abstract Classes & Methods**
+- Applied **Encapsulation & Polymorphism**
+- Used appropriate **Access Modifiers**
+
+ **Code Link:** 
+
+---
+
+## Day 26 – OOP Scenario-Based Programs  
+**Date:** 8-Jan-2026  
+
+### Concepts Applied
+- Used **Interfaces**
+- Created applications:
+  - `MediStore`
+  - `TourMate`
+- Implemented **Abstract Classes & Methods**
+- Applied **Encapsulation & Polymorphism**
+- Used **Access Modifiers**
+
+ **Code Link:** `scenariobased`
+
+---
+
+##  Day 27 – OOP Scenario-Based Programs  
+**Date:** 9-Jan-2026  
+
+### Concepts Applied
+- Used **Interfaces**
+- Created applications:
+  - `Artify`
+  - `FoodLoop`
+- Implemented **Abstract Classes & Methods**
+- Applied **Encapsulation & Polymorphism**
+- Used **Access Modifiers**
+- Worked with **Arrays & ArrayList**
+
+ **Code Link:** 
+
+---
+
+## Day 28 – Algorithm Runtime Analysis  
+**Date:** 10-Jan-2026  
+
+### Performance Analysis Topics
+- Sorting algorithm **time complexities**
+- Performance comparison:
+  - `String` vs `StringBuilder` vs `StringBuffer`
+- File reading performance comparison
+- Fibonacci performance analysis
+- Comparison of:
+  - `HashSet` vs `TreeSet`
+  - Set-based search vs Array search
+
+
+
+---
