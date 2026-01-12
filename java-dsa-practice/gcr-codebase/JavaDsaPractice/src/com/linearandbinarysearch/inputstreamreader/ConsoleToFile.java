@@ -15,7 +15,7 @@ public class ConsoleToFile {
         try (
             BufferedReader consoleReader =
                     new BufferedReader(new InputStreamReader(System.in));
-            FileWriter writer = new FileWriter(filePath, true) // append mode
+            FileWriter writer = new FileWriter(filePath, true) 
         ) {
 
             String input;
@@ -27,7 +27,7 @@ public class ConsoleToFile {
                 }
 
                 writer.write(input);
-                writer.write(System.lineSeparator()); // new line
+                writer.write(System.lineSeparator());
             }
 
             System.out.println("Input saved to file successfully.");
