@@ -522,7 +522,6 @@ java-oops-practice/
   - `InputStreamReader`
   - `BufferedReader`
 
- **Code Link:** 
 
 ---
 
@@ -539,7 +538,6 @@ java-oops-practice/
 - Applied **Encapsulation & Polymorphism**
 - Used appropriate **Access Modifiers**
 
- **Code Link:** 
 
 ---
 
@@ -554,8 +552,6 @@ java-oops-practice/
 - Implemented **Abstract Classes & Methods**
 - Applied **Encapsulation & Polymorphism**
 - Used **Access Modifiers**
-
- **Code Link:** `scenariobased`
 
 ---
 
@@ -572,11 +568,10 @@ java-oops-practice/
 - Used **Access Modifiers**
 - Worked with **Arrays & ArrayList**
 
- **Code Link:** 
 
 ---
 
-## Day 28 – Algorithm Runtime Analysis  
+## Day 28 – linear Search and Binary Search
 **Date:** 10-Jan-2026  
 
 ### Performance Analysis Topics
@@ -584,11 +579,15 @@ java-oops-practice/
 - Performance comparison:
   - `String` vs `StringBuilder` vs `StringBuffer`
 - File reading performance comparison
-- Fibonacci performance analysis
-- Comparison of:
-  - `HashSet` vs `TreeSet`
-  - Set-based search vs Array search
-
-
+**code Link:-**[liner-search](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linearandbinarysearch)
 
 ---
+## Day 29 –  Scenario-Based Programs in Dsa
+**Date:** 11-Jan-2026
+
+- Practiced **scenario-based problems** using core **Data Structures**
+- Applied **Linked List, Stack, Queue, HashMap, Set**
+- **BookShelf**
+- **BrowserBuddy**
+- **AmbulanceRoute**
+
