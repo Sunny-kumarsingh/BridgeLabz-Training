@@ -116,3 +116,10 @@
 - LoanBuddy – Loan Approval Automation"
 - ParkEase – Smart Parking Management System
 
+
+## Day 12 - Scenario-Based Programs
+ **Date :** 12- jan-2026
+
+- HomeNest – Smart Home Device Manager
+- BudgetWise – Personal Finance Tracker
+
