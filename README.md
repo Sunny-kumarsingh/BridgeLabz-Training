@@ -591,3 +591,15 @@ java-oops-practice/
 - **BrowserBuddy**
 - **AmbulanceRoute**
 
+
+## Day 30 –  Scenario-Based Programs in Dsa
+**Date:** 12-Jan-2026
+- TextEditor  – Undo/Redo Functionality
+- TrainCompanion – Compartment Navigation System
+- CallCenter - Customer Queue Manager
+- TrafficManager – Roundabout Vehicle Flow
+
+## Scenario-Based Programs in Oops
+
+- HomeNest – Smart Home Device Manager
+- BudgetWise – Personal Finance Tracker
