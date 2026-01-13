@@ -395,11 +395,7 @@ java-oops-practice/
 **Input:** Scanner  
 **Output:** Console  
 **Status:** Completed & pushed to GitHub  
-
 **Code link:**[Oops Scenario-based questions]()
-
-
-## Day 19: Scenario Based Question solved 
 10. EduMentor – Personalized Learning Platform"
 11. FitTrack – Your Personal Fitness Tracker
 12. PetPal – Virtual Pet Care App
@@ -415,7 +411,7 @@ java-oops-practice/
 ---
 
 
-## 📅 Week 3 – Day 1: Data Structures (Linked Lists)  
+## Week 3 – Day 19: Data Structures (Linked Lists)  
 ** Date:** 2 January 2026  
 
 ---
@@ -452,7 +448,7 @@ java-oops-practice/
 
 ---
 
-## Day 21 Stack, Queue & Hashing  
+## Day 20 Stack, Queue & Hashing  
 ** Date:** 4 January 2026  
 
 ###  Topics Covered
@@ -483,7 +479,7 @@ java-oops-practice/
 
 ---
 
-## Day 22: Sorting Algorithms  
+## Day 21: Sorting Algorithms  
 **Date:** 5 January 2026  
 
 ### Sorting Algorithms Covered
@@ -502,7 +498,7 @@ java-oops-practice/
 
 ---
 
-## Day 23: String Handling & File I/O in Java  
+## Day 22: String Handling & File I/O in Java  
 **Date:** 6 January 2026  
 - StringBuilder and StringBuffer
 - FileReader
@@ -510,7 +506,7 @@ java-oops-practice/
 **Code Link :** [String Handling & File I/O in Java ]()
 
 ---
-##  Day 24 – Searching and Strings  
+##  Day 23 – Searching and Strings  
 **Date:** 7-Jan-2026  
 
 ### Topics Covered
@@ -525,7 +521,7 @@ java-oops-practice/
 
 ---
 
-##  Day 25 – OOP Scenario-Based Programs  
+##  Day 23 – OOP Scenario-Based Programs  
 **Date:** 7-Jan-2026  
 
 ### Concepts Applied
@@ -541,7 +537,7 @@ java-oops-practice/
 
 ---
 
-## Day 26 – OOP Scenario-Based Programs  
+## Day 24 – OOP Scenario-Based Programs  
 **Date:** 8-Jan-2026  
 
 ### Concepts Applied
@@ -555,7 +551,7 @@ java-oops-practice/
 
 ---
 
-##  Day 27 – OOP Scenario-Based Programs  
+##  Day 25 – OOP Scenario-Based Programs  
 **Date:** 9-Jan-2026  
 
 ### Concepts Applied
@@ -571,7 +567,7 @@ java-oops-practice/
 
 ---
 
-## Day 28 – linear Search and Binary Search
+## Day 26 – linear Search and Binary Search
 **Date:** 10-Jan-2026  
 
 ### Performance Analysis Topics
@@ -582,7 +578,7 @@ java-oops-practice/
 **code Link:-**[liner-search](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linearandbinarysearch)
 
 ---
-## Day 29 –  Scenario-Based Programs in Dsa
+## Day 27 –  Scenario-Based Programs in Dsa
 **Date:** 11-Jan-2026
 
 - Practiced **scenario-based problems** using core **Data Structures**
@@ -592,7 +588,7 @@ java-oops-practice/
 - **AmbulanceRoute**
 
 
-## Day 30 –  Scenario-Based Programs in Dsa
+## Day 28 –  Scenario-Based Programs in Dsa
 **Date:** 12-Jan-2026
 - TextEditor  – Undo/Redo Functionality
 - TrainCompanion – Compartment Navigation System
