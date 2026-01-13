@@ -117,8 +117,8 @@
 - ParkEase – Smart Parking Management System
 
 
-- ## Scenario-Based Programs in Oops
-- **Date :** 12- jan-2026
+## Day 12 - Scenario-Based Programs
+ **Date :** 12- jan-2026
 
 - HomeNest – Smart Home Device Manager
 - BudgetWise – Personal Finance Tracker
