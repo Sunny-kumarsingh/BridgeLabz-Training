@@ -64,6 +64,8 @@ Date: 5-jan-2026
 - **BookShelf**
 - **BrowserBuddy**
 - **AmbulanceRoute**
+-  **Code Link :**[scenario - Based](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedPractice/src/com)
+
 
 ## Day 7 –  Scenario-Based Programs in Dsa
 **Date:** 12-Jan-2026
@@ -71,3 +73,20 @@ Date: 5-jan-2026
 - TrainCompanion – Compartment Navigation System
 - CallCenter - Customer Queue Manager
 - TrafficManager – Roundabout Vehicle Flow
+- **Code Link :**[scenario - Based](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedPractice/src/com)
+
+
+## Day 8 - Scenario -Based programs in Dsa
+**Date :** 13-Jan-2026
+- SmartCheckout – Supermarket Billing Queue
+- ParcelTracker – Delivery Chain Management
+- ExamProctor – Online Exam Review System
+- Using linkedlist, Queue stack and hashmap
+- **Code Link :**[scenario - Based](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedPractice/src/com)
+
+## Day 9 Scenario - Based Program in Sorting
+**Date :** 15-Jan-2026
+ - HospitalQueue – Patient Sorting by Criticality (using Bubble Sort).
+ - SmartShelf – Real-Time Book Arrangement (Insertion Sort).
+ - ZipZipMart – Daily Sales Summary Report (Merge Sort).
+ - **Code Link :**[scenario - Based](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedPractice/src/com)
