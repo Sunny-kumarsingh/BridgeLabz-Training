@@ -26,7 +26,7 @@ Date: 16-Dec-2025
 ```
 * * *
 
-## 🗓 Day 2 – Git Practice & Basic Java Programs  
+## Day 2 – Git Practice & Basic Java Programs  
   **Date**: 17-Dec-2025
 
 - Practiced Git workflow for better understanding of version control.
@@ -37,7 +37,7 @@ Date: 16-Dec-2025
 
 ---
 
-## 🗓 Day 3 – Programming Elements in Java  
+## Day 3 – Programming Elements in Java  
   **Date**: 18-Dec-2025
 
 - Studied core Java programming elements:
@@ -139,18 +139,12 @@ Date: 16-Dec-2025
 
 - **Code Link:** [scenario-based]( https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
----
-
-
 -  ## Day 10 - leetcode problems
 *Date:* 28-Dec-2025
 
 - Practiced arrays questions
 - Implemented decision-making problems
 - *Code Link:* [leetcode-codebase](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays-practice-problem)
-
-
----
 
 ### Day 11 – Scenario Based Problems  
 **Date:** 30-Dec-2025  
@@ -160,7 +154,6 @@ Date: 16-Dec-2025
 13. Sandeep’s Fitness Challenge Tracker 
 14. Movie Ticket Booking App 
 15. Rohan’s Library Reminder App 
-
 **Concepts:** if-else, switch, Array, String  
 **Loops:** for, while  
 **Operators:** ternary  
@@ -170,7 +163,6 @@ Date: 16-Dec-2025
 
 ** Code Link:** [scenario-based]( https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
----
 
 ###  Day 12 – Scenario Based Problems  
 **Date:** 31-Dec-2025  
@@ -188,7 +180,6 @@ Date: 16-Dec-2025
 
 ** Code Link:** [Scenario Based Problems]( https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
----
 
 ## Week 2: Java OOPS Practice
 ### Day 13 – Java OOPS Initial Setup  & Learn Class and Object
@@ -226,7 +217,7 @@ java-oops-practice/
   
 **Code Link:**  [Java OOPS Initial Setup  & Learn Class and Object](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase]psConcepts/src/com/classandobject)
 
----
+
 
 ###  Day 14 – Constructors & Access Modifiers  
 **Date: 27-Dec-2025**
@@ -256,7 +247,6 @@ java-oops-practice/
   
 **🔗 Code Link:** [Constructors & Access Modifiers ](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors/levelone)
 
-  ---
   
 ### Day 15 – Java Keywords & Operators  
 **Date: 29-Dec-2025**
@@ -289,7 +279,6 @@ java-oops-practice/
   
 **🔗 Code Link:** [Java Keywords & Operators  ](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/thisstatic/levelone)
 
----
 
 ### Day 16 – OOPs Relationships & UML Basics  
 **Date: 30-Dec-2025**
@@ -311,7 +300,6 @@ java-oops-practice/
   
 **🔗 Code Link:** [OOPs Relationships & UML Basics](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling)
   
----
 
 ###  Day 17 – OOPs Inheritance  
 **Date: 31-Dec-2025**
@@ -331,7 +319,6 @@ java-oops-practice/
 - **Hierarchical Inheritance**
   - Multiple subclasses inherit from a single superclass.
   - Example: `Child1 → Parent`, `Child2 → Parent`
-
 - Key Features of Inheritance
 - Method Overriding
 - Constructor Inheritance in Java
@@ -343,10 +330,9 @@ java-oops-practice/
 - Access Modifiers and Inheritance
 **🔗 Code link:** [Inheritance in java](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
  
----
 
 ## Day 18 : OOPS Principles – Encapsulation, Polymorphism, Interfaces & Abstract Classes  
-**Date: 1 January 2026**  
+**Date:** 1 January 2026 
 
 ### Topics Covered
 
@@ -377,7 +363,6 @@ java-oops-practice/
 
 **Code link:** [Encapsulation, Polymorphism, Interfaces & Abstract Classes ](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulationpolymorphisminterfaceandabstract)  
 
----
 
 ## Scenario Based Question solved  
 1. Hospital Patient Management System
@@ -395,7 +380,10 @@ java-oops-practice/
 **Input:** Scanner  
 **Output:** Console  
 **Status:** Completed & pushed to GitHub  
-**Code link:**[Oops Scenario-based questions]()
+**Code link:**[Oops Scenario-based questions](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/secnario-based/SecnarioBasedQuestions/src/com)
+
+---
+
 10. EduMentor – Personalized Learning Platform"
 11. FitTrack – Your Personal Fitness Tracker
 12. PetPal – Virtual Pet Care App
@@ -406,16 +394,11 @@ java-oops-practice/
 **Output:** Console  
 **Status:** Completed & pushed to GitHub  
 
-**Code link:**[Oops Scenario-based questions]()
-
----
+**Code link:**[Oops Scenario-based questions](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/secnario-based/SecnarioBasedQuestions/src/com)
 
 
 ## Week 3 – Day 19: Data Structures (Linked Lists)  
-** Date:** 2 January 2026  
-
----
-
+**Date :** 2 January 2026  
 ###  Topics Covered
 - Introduction of Data Structures  
 - Key Features of Data Structures in Java  
@@ -444,12 +427,11 @@ java-oops-practice/
 - Strengthened understanding of linear data structures  
 - Focused on problem-solving and logical implementation  
 
-**Code Link:** [LinkedList and its types]()
+**Code Link:** [LinkedList and its types](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linkedlist)
 
----
 
 ## Day 20 Stack, Queue & Hashing  
-** Date:** 4 January 2026  
+**Date :** 4 January 2026  
 
 ###  Topics Covered
 
@@ -475,12 +457,11 @@ java-oops-practice/
 - Understood working of hashing functions and collision handling  
 - Focused on time complexity and performance optimization  
 
-**Code Link:** [Hashmap, Stack & Queue]()
+**Code Link:** [Hashmap, Stack & Queue](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com)
 
----
 
 ## Day 21: Sorting Algorithms  
-**Date:** 5 January 2026  
+**Date :** 5 January 2026  
 
 ### Sorting Algorithms Covered
 
@@ -494,18 +475,17 @@ java-oops-practice/
 - Counting Sort
 - Radix Sort
 - Bucket Sort
-**Code Link :** [Sorting algorithms]()
+**Code Link :** [Sorting algorithms](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sorts)
 
----
 
 ## Day 22: String Handling & File I/O in Java  
-**Date:** 6 January 2026  
+**Date :** 6 January 2026  
 - StringBuilder and StringBuffer
 - FileReader
 -  InputStreamReader
-**Code Link :** [String Handling & File I/O in Java ]()
+**Code Link :** [String Handling & File I/O in Java ](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linearandbinarysearch)
 
----
+
 ##  Day 23 – Searching and Strings  
 **Date:** 7-Jan-2026  
 
@@ -519,10 +499,8 @@ java-oops-practice/
   - `BufferedReader`
 
 
----
-
 ##  Day 23 – OOP Scenario-Based Programs  
-**Date:** 7-Jan-2026  
+**Date :** 7-Jan-2026  
 
 ### Concepts Applied
 - Used **Interfaces**
@@ -533,12 +511,11 @@ java-oops-practice/
 - Implemented **Abstract Classes & Methods**
 - Applied **Encapsulation & Polymorphism**
 - Used appropriate **Access Modifiers**
+**Code Link :**[scenario-based](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/secnario-based/SecnarioBasedQuestions/src/com)
 
-
----
 
 ## Day 24 – OOP Scenario-Based Programs  
-**Date:** 8-Jan-2026  
+**Date :** 8-Jan-2026  
 
 ### Concepts Applied
 - Used **Interfaces**
@@ -548,11 +525,11 @@ java-oops-practice/
 - Implemented **Abstract Classes & Methods**
 - Applied **Encapsulation & Polymorphism**
 - Used **Access Modifiers**
+**Code Link :**[scenario-based](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/secnario-based/SecnarioBasedQuestions/src/com)
 
----
 
 ##  Day 25 – OOP Scenario-Based Programs  
-**Date:** 9-Jan-2026  
+**Date :** 9-Jan-2026  
 
 ### Concepts Applied
 - Used **Interfaces**
@@ -563,12 +540,11 @@ java-oops-practice/
 - Applied **Encapsulation & Polymorphism**
 - Used **Access Modifiers**
 - Worked with **Arrays & ArrayList**
+**Code Link :**[scenario-based](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/secnario-based/SecnarioBasedQuestions/src/com)
 
-
----
 
 ## Day 26 – linear Search and Binary Search
-**Date:** 10-Jan-2026  
+**Date :** 10-Jan-2026  
 
 ### Performance Analysis Topics
 - Sorting algorithm **time complexities**
@@ -577,9 +553,9 @@ java-oops-practice/
 - File reading performance comparison
 **code Link:-**[liner-search](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linearandbinarysearch)
 
----
+
 ## Day 27 –  Scenario-Based Programs in Dsa
-**Date:** 11-Jan-2026
+**Date :** 11-Jan-2026
 
 - Practiced **scenario-based problems** using core **Data Structures**
 - Applied **Linked List, Stack, Queue, HashMap, Set**
@@ -589,13 +565,28 @@ java-oops-practice/
 
 
 ## Day 28 –  Scenario-Based Programs in Dsa
-**Date:** 12-Jan-2026
+**Date :** 12-Jan-2026
 - TextEditor  – Undo/Redo Functionality
 - TrainCompanion – Compartment Navigation System
 - CallCenter - Customer Queue Manager
 - TrafficManager – Roundabout Vehicle Flow
+- **Code Link :**[scenario - Based](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedPractice/src/com)
 
 ## Scenario-Based Programs in Oops
-
 - HomeNest – Smart Home Device Manager
 - BudgetWise – Personal Finance Tracker
+
+## Day 29 - Scenario -Based programs in Dsa
+**Date :** 13-Jan-2026
+- SmartCheckout – Supermarket Billing Queue
+- ParcelTracker – Delivery Chain Management
+- ExamProctor – Online Exam Review System
+- Using linkedlist, Queue stack and hashmap
+- **Code Link :**[scenario - Based](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedPractice/src/com)
+
+## Day 30 Scenario - Based Program in Sorting
+**Date :** 15-Jan-2026
+ - HospitalQueue – Patient Sorting by Criticality (using Bubble Sort).
+ - SmartShelf – Real-Time Book Arrangement (Insertion Sort).
+ - ZipZipMart – Daily Sales Summary Report (Merge Sort).
+ - **Code Link :**[scenario - Based](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedPractice/src/com)
