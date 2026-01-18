@@ -12,7 +12,7 @@ public class MergeSort {
         mergeSort(arr, si, mid);
         mergeSort(arr, mid + 1, ei);
 
-        // conquer
+        // merge
         merge(arr, si, mid, ei);
     }
 
