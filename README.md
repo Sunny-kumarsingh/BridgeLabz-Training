@@ -1,4 +1,4 @@
-## Week 4 – Day 1: Data Structures (Linked Lists)
+## Week 4 – Day 1: Java Collections
 **Date :** 19-January-2026  
 
 ###  Topics Covered
