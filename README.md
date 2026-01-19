@@ -90,3 +90,21 @@ Date: 5-jan-2026
  - SmartShelf – Real-Time Book Arrangement (Insertion Sort).
  - ZipZipMart – Daily Sales Summary Report (Merge Sort).
  - **Code Link :**[scenario - Based](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedPractice/src/com)
+
+## Day 10 Scenario - Based Program in Sorting
+**Date :** 16-Jan-2026
+ - EventManager – Ticket Price Optimizer (using Quick Sort)
+ - ExamCell – Student Rank Generator ( using Merge Sort)
+ - RoboWarehouse – Shelf Loading Robot (using Insertion Sort)
+ - CinemaHouse – Movie Time Sorting (using Bubble Sort)
+ - CropMonitor – Sensor Data Ordering (using Quick Sort)
+ - **Code Link :**[scenario - Based](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedPractice/src/com)
+  
+
+## Day 11 Scenario - Based Program in Sorting
+**Date :** 17-Jan-2026
+ - ArtExpo – Sort Artists by Registration Time (using Insertion Sort)
+ - FleetManager – Vehicle Maintenance Scheduler (using Merge Sort)
+ - IceCreamRush – Sorting Flavors by Popularity (using Bubble Sort)
+ - SmartLibrary – Auto-Sort Borrowed Books (using Insertion Sort)
+ - **Code Link :**[scenario - Based](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedPractice/src/com)
