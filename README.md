@@ -35,7 +35,6 @@ Date: 16-Dec-2025
 
 **🔗 Code Link:** [ Git Practice & Basic Java Programs](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite)
 
----
 
 ## Day 3 – Programming Elements in Java  
   **Date**: 18-Dec-2025
@@ -66,7 +65,6 @@ Date: 16-Dec-2025
 
 **🔗 Code Link:** [ Control Flow & Logical Constructs](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows) 
 
----
 
 ## Day 5 – Arrays & Basic Problem Solving  
  **Date**: 20-Dec-2025
@@ -80,7 +78,6 @@ Date: 16-Dec-2025
 - Basic array logic
 **🔗 Code Link:** [ Arrays & Basic Problem Solving](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
----
 
 ## Day 6 – Methods & Basic Problem Solving  
  **Date**: 22-Dec-2025
@@ -92,21 +89,19 @@ Date: 16-Dec-2025
 
 **🔗 Code Link:** [ Methods & Basic Problem Solving](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
 
----
 
 ## Day 7 - String & Basic Problem Solving 
   **Date**: 23-Dec-2025
  - Studied String concepts:
-  - String creation
-  - String methods
-  - Character processing
-- Implemented string manipulation programs.
-  - Practiced UserDefined Methods, Using methods multiple times
-  - Learned about Java.lang.Math Class
+ - String creation
+ - String methods
+ - Character processing
+ - Implemented string manipulation programs.
+ - Practiced UserDefined Methods, Using methods multiple times
+ - Learned about Java.lang.Math Class
     
 **🔗 Code Link:** [ String & Basic Problem Solving ](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
 
----
 
 ## Day 8 – Built-in Functions & Extra Practice  
  **Date**: 24-Dec-2025
