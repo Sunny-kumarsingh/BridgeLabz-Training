@@ -108,3 +108,12 @@ Date: 5-jan-2026
  - IceCreamRush – Sorting Flavors by Popularity (using Bubble Sort)
  - SmartLibrary – Auto-Sort Borrowed Books (using Insertion Sort)
  - **Code Link :**[scenario - Based](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedPractice/src/com)
+
+## Day 12 _Dsa Scenario-Based_ 
+**Date :** 19-jan-2026
+- EduResults – Rank Sheet Generator (Merge Sort)
+- FlashDealz – Product Sorting by Discount (Quick Sort)
+- FitnessTracker – Daily Step Count Ranking (Bubble Sort)
+- **Code Link :**[scenario - Based](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedPractice/src/com)
+
+
