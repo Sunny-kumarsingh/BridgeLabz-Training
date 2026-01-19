@@ -603,3 +603,32 @@ java-oops-practice/
  - IceCreamRush – Sorting Flavors by Popularity (using Bubble Sort)
  - SmartLibrary – Auto-Sort Borrowed Books (using Insertion Sort)
  - **Code Link :**[scenario - Based](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedPractice/src/com)
+
+---
+
+# Week 4 – Day 33: Java Collections
+**Date :** 19-January-2026  
+
+###  Topics Covered
+- Introduction to Java Generics
+- Introduction to Generics
+- Type Parameters
+- Generic Classes
+- Generic Methods
+- Bounded Type Parameters
+- Wildcards
+- Solve practice on these topic
+- Smart Warehouse Management System
+- Dynamic Online Marketplace
+- Multi-Level University Course Management System
+- Personalized Meal Plan Generator
+- AI-Driven Resume Screening System
+
+**Code Link :**[Generics](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/generics)
+
+## _Dsa Scenario-Based_ 
+- EduResults – Rank Sheet Generator (Merge Sort)
+- FlashDealz – Product Sorting by Discount (Quick Sort)
+- FitnessTracker – Daily Step Count Ranking (Bubble Sort)
+- **Code Link :**[scenario - Based](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedPractice/src/com)
+
