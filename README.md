@@ -116,4 +116,11 @@ Date: 5-jan-2026
 - FitnessTracker – Daily Step Count Ranking (Bubble Sort)
 - **Code Link :**[scenario - Based](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedPractice/src/com)
 
+---
 
+## Day 13 Scenario - Based Program in Sorting 
+**Date :** 20-Jan-2026
+- MovieTime – Theater Show Listings (Insertion Sort)
+- FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)
+- GamerZone – High Score Ranking System (Quick Sort)
+- **Code Link :**[scenario - Based](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedPractice/src/com)
