@@ -7,11 +7,11 @@ public class ArcadeGame extends Game {
 
     @Override
     public void download() {
-        System.out.println("?? Downloading arcade game: " + title);
+        System.out.println("Downloading arcade game: " + title);
     }
 
     @Override
     public void playDemo() {
-        System.out.println("? Arcade Demo: Fast-paced action for 2 minutes!");
+        System.out.println("Arcade Demo: Fast-paced action for 2 minutes!");
     }
 }

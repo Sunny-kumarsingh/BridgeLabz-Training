@@ -7,11 +7,11 @@ public class StrategyGame extends Game {
 
     @Override
     public void download() {
-        System.out.println("?? Downloading strategy game: " + title);
+        System.out.println("Downloading strategy game: " + title);
     }
 
     @Override
     public void playDemo() {
-        System.out.println("? Strategy Demo: Play first mission with limited features!");
+        System.out.println("Strategy Demo: Play first mission with limited features!");
     }
 }

@@ -19,7 +19,7 @@ public class User {
     }
 
     public void showOwnedGames() {
-        System.out.println("🎯 Games owned by " + username + ":");
+        System.out.println("Games owned by " + username + ":");
         for (Game g : ownedGames) {
             System.out.println("- " + g.getTitle());
         }
