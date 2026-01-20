@@ -631,4 +631,23 @@ java-oops-practice/
 - FlashDealz – Product Sorting by Discount (Quick Sort)
 - FitnessTracker – Daily Step Count Ranking (Bubble Sort)
 - **Code Link :**[scenario - Based](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedPractice/src/com)
+- 
 
+## Day 33 Scenario - Based Program in Sorting 
+**Date :** 20-Jan-2026
+- MovieTime – Theater Show Listings (Insertion Sort)
+- FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)
+- GamerZone – High Score Ranking System (Quick Sort)
+- **Code Link :**[scenario - Based](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedPractice/src/com)
+---
+## 02  Collections
+
+- Overview of Collections Framework
+- What is the Collections Framework?
+- Hierarchy of Collections Framework
+- List Interface and Implementing Classes
+- Set Interface and Implementing Classes
+- Queue and Deque Interfaces
+- Map Interface and Its Implementations
+- Comparison of Different Implementations
+- Real-World Use Cases and Best Practices.
