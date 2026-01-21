@@ -104,7 +104,7 @@ Date: 16-Dec-2025
 
 
 ## Day 8 – Built-in Functions & Extra Practice  
- **Date**: 24-Dec-2025
+ **Date :** 24-Dec-2025
 
 - Practiced Java built-in functions.
 - Implemented utility programs:
@@ -114,10 +114,12 @@ Date: 16-Dec-2025
   - Type conversion
 - Organized programs into appropriate folders.
 
-** Code Link:** [Built-in Functions & Extra Practice ](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+**Code Link:** [Built-in Functions & Extra Practice ](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
 
 ---
 
+# Week 2: Java OOPS Practice
+### Java OOPS Initial Setup  & Learn Class and Object
 ###  Day 9 – Scenario Based Problems  
 **Date:** 26-Dec-2025
 1. Election Booth Manager
@@ -131,62 +133,15 @@ Date: 16-Dec-2025
 **Input:** Scanner  
 **Output:** Console  
 **Status:** Completed & pushed to GitHub  
-
 - **Code Link:** [scenario-based]( https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
-
--  ## Day 10 - leetcode problems
-*Date:* 28-Dec-2025
-
-- Practiced arrays questions
-- Implemented decision-making problems
-- *Code Link:* [leetcode-codebase](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays-practice-problem)
-
-### Day 11 – Scenario Based Problems  
-**Date:** 30-Dec-2025  
-
-11. Temperature Logger 
-12. Train Reservation Queue   
-13. Sandeep’s Fitness Challenge Tracker 
-14. Movie Ticket Booking App 
-15. Rohan’s Library Reminder App 
-**Concepts:** if-else, switch, Array, String  
-**Loops:** for, while  
-**Operators:** ternary  
-**Input:** Scanner  
-**Output:** Console  
-**Status:** Completed & pushed to GitHub  
-
-** Code Link:** [scenario-based]( https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
-
-
-###  Day 12 – Scenario Based Problems  
-**Date:** 31-Dec-2025  
-
-16. Digital Watch Simulation 
-17. Online Quiz Application 
-18. Currency Exchange Kiosk 
-19. Bus Route Distance Tracker 
-20. Festival Lucky Draw 
-**Concepts:** if-else, switch, Array, String  
-**Loops:** for, while  
-**Input:** Scanner  
-**Output:** Console  
-**Status:** Completed & pushed to GitHub  
-
-** Code Link:** [Scenario Based Problems]( https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
-
-
-## Week 2: Java OOPS Practice
-### Day 13 – Java OOPS Initial Setup  & Learn Class and Object
-**Date: 26-Dec-2025**
-
+  
 ## Setup & Configuration
 - Created **java-oops-practice** branch under BridgeLabz Training.
 - Initialized **gcr-codebase** for OOPS-based Java programs.
 - Configured package structure using `com` convention.
 - Updated `.gitignore` to track only `src` files
 
-#### Current Project Structure 
+#### Current Project Structure for oops
 ```text
 java-oops-practice/
 │
@@ -212,9 +167,7 @@ java-oops-practice/
   
 **Code Link:**  [Java OOPS Initial Setup  & Learn Class and Object](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase]psConcepts/src/com/classandobject)
 
-
-
-###  Day 14 – Constructors & Access Modifiers  
+###  Day 10 – Constructors & Access Modifiers  
 **Date: 27-Dec-2025**
 
 #### Concepts Learned
@@ -242,8 +195,13 @@ java-oops-practice/
   
 **🔗 Code Link:** [Constructors & Access Modifiers ](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors/levelone)
 
-  
-### Day 15 – Java Keywords & Operators  
+## Day 11 - leetcode problems
+**Date :** 28-Dec-2025
+- Practiced arrays questions
+- Implemented decision-making problems
+- *Code Link:* [leetcode-codebase](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays-practice-problem)
+
+### Day 12 – Java Keywords & Operators  
 **Date: 29-Dec-2025**
 
 ####  Concepts Learned
@@ -274,10 +232,24 @@ java-oops-practice/
   
 **🔗 Code Link:** [Java Keywords & Operators  ](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/thisstatic/levelone)
 
-
-### Day 16 – OOPs Relationships & UML Basics  
+### Day 13 – Scenario Based Problems  
 **Date: 30-Dec-2025**
 
+11. Temperature Logger 
+12. Train Reservation Queue   
+13. Sandeep’s Fitness Challenge Tracker 
+14. Movie Ticket Booking App 
+15. Rohan’s Library Reminder App 
+**Concepts:** if-else, switch, Array, String  
+**Loops:** for, while  
+**Operators:** ternary  
+**Input:** Scanner  
+**Output:** Console  
+**Status:** Completed & pushed to GitHub  
+
+** Code Link:** [scenario-based]( https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+### OOPs Relationships & UML Basics  
 - Learned **Classes vs Objects** in Java  
 - Studied **UML Diagrams**:
   - Class Diagram
@@ -294,11 +266,24 @@ java-oops-practice/
 - Implemented Java code and pushed to GitHub
   
 **🔗 Code Link:** [OOPs Relationships & UML Basics](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling)
-  
 
-###  Day 17 – OOPs Inheritance  
-**Date: 31-Dec-2025**
+###  Day 14 – Scenario Based Problems  
+**Date:** 31-Dec-2025  
 
+16. Digital Watch Simulation 
+17. Online Quiz Application 
+18. Currency Exchange Kiosk 
+19. Bus Route Distance Tracker 
+20. Festival Lucky Draw 
+**Concepts:** if-else, switch, Array, String  
+**Loops:** for, while  
+**Input:** Scanner  
+**Output:** Console  
+**Status:** Completed & pushed to GitHub  
+
+** Code Link:** [Scenario Based Problems]( https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+### OOPs Inheritance  
 - **Inheritance**
   - Mechanism where one class acquires the properties and behavior of another class.
   - Promotes code reusability and hierarchical classification.
@@ -323,14 +308,13 @@ java-oops-practice/
 - Inheritance enables runtime polymorphism.
 - Method calls are resolved based on object type, not reference type.
 - Access Modifiers and Inheritance
-**🔗 Code link:** [Inheritance in java](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+**Code link:** [Inheritance in java](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+  
+ ---
  
-
-## Day 18 : OOPS Principles – Encapsulation, Polymorphism, Interfaces & Abstract Classes  
+## Day 15 : OOPS Principles – Encapsulation, Polymorphism, Interfaces & Abstract Classes  
 **Date:** 1 January 2026 
-
 ### Topics Covered
-
 **Encapsulation**
 - Used `private` access modifiers for class fields  
 - Implemented public getters and setters with validation  
@@ -357,7 +341,6 @@ java-oops-practice/
 - Focused on readability, maintainability, and design principles
 
 **Code link:** [Encapsulation, Polymorphism, Interfaces & Abstract Classes ](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulationpolymorphisminterfaceandabstract)  
-
 
 ## Scenario Based Question solved  
 1. Hospital Patient Management System
@@ -392,7 +375,7 @@ java-oops-practice/
 **Code link:**[Oops Scenario-based questions](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/secnario-based/SecnarioBasedQuestions/src/com)
 
 
-## Week 3 – Day 19: Data Structures (Linked Lists)  
+## Week 3 – Day 16: Data Structures (Linked Lists)  
 **Date :** 2 January 2026  
 ###  Topics Covered
 - Introduction of Data Structures  
@@ -425,7 +408,7 @@ java-oops-practice/
 **Code Link:** [LinkedList and its types](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linkedlist)
 
 
-## Day 20 Stack, Queue & Hashing  
+## Day 17 Stack, Queue & Hashing  
 **Date :** 4 January 2026  
 
 ###  Topics Covered
@@ -434,7 +417,7 @@ java-oops-practice/
   - Linear data structure following LIFO (Last In First Out)
   - Operations: push, pop, peek
   - Used in function calls, expression evaluation, and undo operations
-
+    
 - **Queue**
   - Linear data structure following FIFO (First In First Out)
   - Operations: enqueue, dequeue, front
@@ -455,7 +438,7 @@ java-oops-practice/
 **Code Link:** [Hashmap, Stack & Queue](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com)
 
 
-## Day 21: Sorting Algorithms  
+## Day 18: Sorting Algorithms  
 **Date :** 5 January 2026  
 
 ### Sorting Algorithms Covered
@@ -473,7 +456,7 @@ java-oops-practice/
 **Code Link :** [Sorting algorithms](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sorts)
 
 
-## Day 22: String Handling & File I/O in Java  
+## Day 19: String Handling & File I/O in Java  
 **Date :** 6 January 2026  
 - StringBuilder and StringBuffer
 - FileReader
@@ -481,8 +464,8 @@ java-oops-practice/
 **Code Link :** [String Handling & File I/O in Java ](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linearandbinarysearch)
 
 
-##  Day 23 – Searching and Strings  
-**Date:** 7-Jan-2026  
+##  Day 20 – Searching and Strings  
+**Date :** 7-Jan-2026  
 
 ### Topics Covered
 - Implemented **Linear Search**
@@ -493,10 +476,8 @@ java-oops-practice/
   - `InputStreamReader`
   - `BufferedReader`
 
-
-##  Day 23 – OOP Scenario-Based Programs  
+## OOP Scenario-Based Programs  
 **Date :** 7-Jan-2026  
-
 ### Concepts Applied
 - Used **Interfaces**
 - Created scenario-based applications:
@@ -509,7 +490,7 @@ java-oops-practice/
 **Code Link :**[scenario-based](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/secnario-based/SecnarioBasedQuestions/src/com)
 
 
-## Day 24 – OOP Scenario-Based Programs  
+## Day 21 – OOP Scenario-Based Programs  
 **Date :** 8-Jan-2026  
 
 ### Concepts Applied
@@ -523,7 +504,7 @@ java-oops-practice/
 **Code Link :**[scenario-based](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/secnario-based/SecnarioBasedQuestions/src/com)
 
 
-##  Day 25 – OOP Scenario-Based Programs  
+##  Day 22 – OOP Scenario-Based Programs  
 **Date :** 9-Jan-2026  
 
 ### Concepts Applied
@@ -538,7 +519,7 @@ java-oops-practice/
 **Code Link :**[scenario-based](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/secnario-based/SecnarioBasedQuestions/src/com)
 
 
-## Day 26 – linear Search and Binary Search
+## Day 23 – linear Search and Binary Search
 **Date :** 10-Jan-2026  
 
 ### Performance Analysis Topics
@@ -549,7 +530,7 @@ java-oops-practice/
 **code Link:-**[liner-search](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linearandbinarysearch)
 
 
-## Day 27 –  Scenario-Based Programs in Dsa
+## Day 24 –  Scenario-Based Programs in Dsa
 **Date :** 11-Jan-2026
 
 - Practiced **scenario-based problems** using core **Data Structures**
@@ -559,7 +540,7 @@ java-oops-practice/
 - **AmbulanceRoute**
 
 
-## Day 28 –  Scenario-Based Programs in Dsa
+## Day 25 –  Scenario-Based Programs in Dsa
 **Date :** 12-Jan-2026
 - TextEditor  – Undo/Redo Functionality
 - TrainCompanion – Compartment Navigation System
@@ -571,7 +552,7 @@ java-oops-practice/
 - HomeNest – Smart Home Device Manager
 - BudgetWise – Personal Finance Tracker
 
-## Day 29 - Scenario -Based programs in Dsa
+## Day 26 - Scenario -Based programs in Dsa
 **Date :** 13-Jan-2026
 - SmartCheckout – Supermarket Billing Queue
 - ParcelTracker – Delivery Chain Management
@@ -579,14 +560,14 @@ java-oops-practice/
 - Using linkedlist, Queue stack and hashmap
 - **Code Link :**[scenario - Based](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedPractice/src/com)
 
-## Day 30 Scenario - Based Program in Sorting
+## Day 27 Scenario - Based Program in Sorting
 **Date :** 15-Jan-2026
  - HospitalQueue – Patient Sorting by Criticality (using Bubble Sort).
  - SmartShelf – Real-Time Book Arrangement (Insertion Sort).
  - ZipZipMart – Daily Sales Summary Report (Merge Sort).
  - **Code Link :**[scenario - Based](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedPractice/src/com)
 
-## Day 31 Scenario - Based Program in Sorting
+## Day 28 Scenario - Based Program in Sorting
 **Date :** 16-Jan-2026
  - EventManager – Ticket Price Optimizer (using Quick Sort)
  - ExamCell – Student Rank Generator ( using Merge Sort)
@@ -596,7 +577,7 @@ java-oops-practice/
  - **Code Link :**[scenario - Based](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedPractice/src/com)
   
 
-## Day 32 Scenario - Based Program in Sorting
+## Day 29 Scenario - Based Program in Sorting
 **Date :** 17-Jan-2026
  - ArtExpo – Sort Artists by Registration Time (using Insertion Sort)
  - FleetManager – Vehicle Maintenance Scheduler (using Merge Sort)
@@ -606,7 +587,7 @@ java-oops-practice/
 
 ---
 
-# Week 4 – Day 33: Java Collections
+# Week 4 – Day 30: Java Collections
 **Date :** 19-January-2026  
 
 ###  Topics Covered
@@ -633,7 +614,7 @@ java-oops-practice/
 - **Code Link :**[scenario - Based](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedPractice/src/com)
 - 
 
-## Day 33 Scenario - Based Program in Sorting 
+## Day 31 Scenario - Based Program in Sorting 
 **Date :** 20-Jan-2026
 - MovieTime – Theater Show Listings (Insertion Sort)
 - FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)
