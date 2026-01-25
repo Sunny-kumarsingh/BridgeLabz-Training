@@ -1,4 +1,6 @@
 package com.collections.mapinterface.groupobjectbyproperty;
+
+
 class Department {
     String name;
 
