@@ -1,4 +1,6 @@
 package com.regex.replaceandmodifystring;
+
+
 public class SpaceNormalizer {
 
     public static void main(String[] args) {
