@@ -6,7 +6,8 @@ public class WriteCSVFile {
 
     public static void main(String[] args) {
 
-        String filePath = "employees.csv";
+        String filePath = 
+        		"C:\\Users\\sunny\\Desktop\\Java programming workspace\\java-iostream-practice\\gcr-codebase\\JavaIoStreamPractice\\src\\com\\sampleCSVfileoutput\\employees.txt";
 
         try (FileWriter writer = new FileWriter(filePath)) {
 
