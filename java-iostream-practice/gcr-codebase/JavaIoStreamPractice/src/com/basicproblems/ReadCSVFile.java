@@ -8,7 +8,7 @@ public class ReadCSVFile {
     public static void main(String[] args) {
 
         String filePath = 
-        		"C:\\Users\\sunny\\Desktop\\Java programming workspace\\java-iostream-practice\\gcr-codebase\\JavaIoStreamPractice\\src\\com\\sampleCSVfile\\readCSVfileandprintdata.txt";
+        		"C:\\Users\\sunny\\Desktop\\Java programming workspace\\java-iostream-practice\\gcr-codebase\\JavaIoStreamPractice\\src\\sampleCSVfile\\readCSVfileandprintdata.csv";
         String line;
 
         try (BufferedReader br = new BufferedReader(new FileReader(filePath))) {

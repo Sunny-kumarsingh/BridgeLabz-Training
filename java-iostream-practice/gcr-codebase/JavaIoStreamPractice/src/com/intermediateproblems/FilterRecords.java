@@ -8,7 +8,7 @@ public class FilterRecords {
 	public static void main(String[] args) {
 		
         String filePath =
-        		"C:\\Users\\sunny\\Desktop\\Java programming workspace\\java-iostream-practice\\gcr-codebase\\JavaIoStreamPractice\\src\\sampleCSVfile\\studentsFilter.txt";
+        		"C:\\Users\\sunny\\Desktop\\Java programming workspace\\java-iostream-practice\\gcr-codebase\\JavaIoStreamPractice\\src\\sampleCSVfile\\studentsFilter.csv";
         
         try(BufferedReader br = new BufferedReader(new FileReader(filePath))){
         	

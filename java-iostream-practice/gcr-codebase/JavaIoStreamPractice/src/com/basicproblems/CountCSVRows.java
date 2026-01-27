@@ -7,7 +7,7 @@ public class CountCSVRows {
 
     public static void main(String[] args) {
 
-        String filePath = "C:\\Users\\sunny\\Desktop\\Java programming workspace\\java-iostream-practice\\gcr-codebase\\JavaIoStreamPractice\\src\\com\\sampleCSVfile\\students.txt";
+        String filePath = "C:\\Users\\sunny\\Desktop\\Java programming workspace\\java-iostream-practice\\gcr-codebase\\JavaIoStreamPractice\\src\\sampleCSVfile\\students.csv";
         String line;
         int count = 0;
 

@@ -1,6 +1,0 @@
-Name,Marks
-sunny,90
-Rohit,80
-Amit,32
-Neha,78
-Priya,65
