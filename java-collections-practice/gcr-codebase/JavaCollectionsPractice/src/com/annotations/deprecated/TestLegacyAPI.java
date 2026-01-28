@@ -6,7 +6,7 @@ public class TestLegacyAPI {
 
         LegacyAPI api = new LegacyAPI();
 
-        api.oldFeature();   // ⚠️ Deprecated warning
-        api.newFeature();   // ✅ Recommended
+        api.oldFeature();   
+        api.newFeature();   
     }
 }
