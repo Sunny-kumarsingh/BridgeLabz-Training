@@ -1,4 +1,4 @@
-package com.functionalinterface.smartdevicecontrol;
+package com.functionalinterface.definingandImplementsInterface.smartdevicecontrol;
 public class SmartHome {
     public static void main(String[] args) {
 

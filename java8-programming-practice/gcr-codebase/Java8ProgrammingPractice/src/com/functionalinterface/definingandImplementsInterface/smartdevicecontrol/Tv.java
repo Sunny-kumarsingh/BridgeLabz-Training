@@ -1,4 +1,4 @@
-package com.functionalinterface.smartdevicecontrol;
+package com.functionalinterface.definingandImplementsInterface.smartdevicecontrol;
 
 public class Tv implements Action {
 	 @Override

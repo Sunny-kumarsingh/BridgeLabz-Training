@@ -1,4 +1,5 @@
-package com.functionalinterface.smartdevicecontrol;
+package com.functionalinterface.definingandImplementsInterface.smartdevicecontrol;
+
 
 public class AC implements Action {
 	
