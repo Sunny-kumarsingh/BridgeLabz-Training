@@ -1,4 +1,4 @@
-package com.functionalinterface.markerinterfacedataserialization;
+package com.functionalinterface.markerinterface.dataserialization;
 public class BackupApp {
 
     public static void main(String[] args) {
