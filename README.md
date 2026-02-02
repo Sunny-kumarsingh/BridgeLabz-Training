@@ -566,29 +566,9 @@ java-oops-practice/
  - SmartShelf – Real-Time Book Arrangement (Insertion Sort).
  - ZipZipMart – Daily Sales Summary Report (Merge Sort).
  - **Code Link :**[scenario - Based](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedPractice/src/com)
-
-## Day 28 Scenario - Based Program in Sorting
-**Date :** 16-Jan-2026
- - EventManager – Ticket Price Optimizer (using Quick Sort)
- - ExamCell – Student Rank Generator ( using Merge Sort)
- - RoboWarehouse – Shelf Loading Robot (using Insertion Sort)
- - CinemaHouse – Movie Time Sorting (using Bubble Sort)
- - CropMonitor – Sensor Data Ordering (using Quick Sort)
- - **Code Link :**[scenario - Based](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedPractice/src/com)
-  
-
-## Day 29 Scenario - Based Program in Sorting
-**Date :** 17-Jan-2026
- - ArtExpo – Sort Artists by Registration Time (using Insertion Sort)
- - FleetManager – Vehicle Maintenance Scheduler (using Merge Sort)
- - IceCreamRush – Sorting Flavors by Popularity (using Bubble Sort)
- - SmartLibrary – Auto-Sort Borrowed Books (using Insertion Sort)
- - **Code Link :**[scenario - Based](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedPractice/src/com)
-
----
-
-# Week 4 – Day 30: Java Collections
-**Date :** 19-January-2026  
+ - ---
+ 
+### Week 4 – Java Collections
 
 ###  Topics Covered
 - Introduction to Java Generics
@@ -614,69 +594,154 @@ java-oops-practice/
 - **Code Link :**[scenario - Based](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedPractice/src/com)
 - 
 
+
+## Day 28 Scenario - Based Program in Sorting
+**Date :** 16-Jan-2026
+ - EventManager – Ticket Price Optimizer (using Quick Sort)
+ - ExamCell – Student Rank Generator ( using Merge Sort)
+ - RoboWarehouse – Shelf Loading Robot (using Insertion Sort)
+ - CinemaHouse – Movie Time Sorting (using Bubble Sort)
+ - CropMonitor – Sensor Data Ordering (using Quick Sort)
+ - **Code Link :**[scenario - Based](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedPractice/src/com)
+
+ - ## Collections part 
+ - Overview of Collections Framework
+ - What is the Collections Framework?
+ - Hierarchy of Collections Framework
+ - List Interface and Implementing Classes
+ - Set Interface and Implementing Classes
+ - Queue and Deque Interfaces
+ - Map Interface and Its Implementations
+ - Comparison of Different Implementations
+ - Real-World Use Cases and Best Practices.
+  
+
+## Day 29 Scenario - Based Program in Sorting
+**Date :** 17-Jan-2026
+ - ArtExpo – Sort Artists by Registration Time (using Insertion Sort)
+ - FleetManager – Vehicle Maintenance Scheduler (using Merge Sort)
+ - IceCreamRush – Sorting Flavors by Popularity (using Bubble Sort)
+ - SmartLibrary – Auto-Sort Borrowed Books (using Insertion Sort)
+ - **Code Link :**[scenario - Based](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedPractice/src/com)
+
+---
+
+# Week 4 – Day 30: Java Collections
+**Date :** 19-January-2026  
+
+###  Topics Covered
+- Java I/O Streams
+- Types of Streams
+- 1. File Streams
+- 2. Object Streams
+- 3. ByteArray Streams
+- 4. Buffered Streams
+- 5. Reader and Writer
+- Key Considerations
+- Best Practices
+**Code Link :**[Collections](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/)
+
+## _Dsa Scenario-Based_ 
+- EduResults – Rank Sheet Generator (Merge Sort)
+- FlashDealz – Product Sorting by Discount (Quick Sort)
+- FitnessTracker – Daily Step Count Ranking (Bubble Sort)
+- **Code Link :**[scenario - Based](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedPractice/src/com)
+- 
+
 ## Day 31 Scenario - Based Program in Sorting 
 **Date :** 20-Jan-2026
 - MovieTime – Theater Show Listings (Insertion Sort)
 - FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)
 - GamerZone – High Score Ranking System (Quick Sort)
 - **Code Link :**[scenario - Based](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedPractice/src/com)
-## 02  Collections
 
-- Overview of Collections Framework
-- What is the Collections Framework?
-- Hierarchy of Collections Framework
-- List Interface and Implementing Classes
-- Set Interface and Implementing Classes
-- Queue and Deque Interfaces
-- Map Interface and Its Implementations
-- Comparison of Different Implementations
-- Real-World Use Cases and Best Practices.
+- ## Exceptions 
+- Types of Exceptions
+- Checked Exceptions,
+- Unchecked Exceptions
+- Custom Exceptions
+- Handling Exceptions 
+- try-catch blocks
+- try-catch-finally blocks
+- try-with-resources statement
+- throws clause
+- throw statement
+- Creating Custom Exceptions
+- Extending Exception Class
+- Defining Constructors
 
-### Java Collection Framework (java-collections-practice)
-- **Generics**: Type-safe collections, generic classes and methods, type parameters, bounded types, wildcards, type erasure
-- **Collections Overview**: Purpose and benefits of Java Collections Framework
-- **Hierarchy**: `Iterable`, `Collection`, `List`, `Set`, `Queue`, and `Map`
-- **List Implementations**: `ArrayList`, `LinkedList`, `Vector`
-- **Set Implementations**: `HashSet`, `LinkedHashSet`, `TreeSet`
-- **Map Implementations**: `HashMap`, `LinkedHashMap`, `TreeMap`, `Hashtable`
-- **Queue & Deque**: `PriorityQueue`, `ArrayDeque`
-- **Hands-on Practice**: CRUD, iteration, ordering, and performance examples
-- **I/O Streams**: Byte & character streams, buffering, object serialization, and efficient file handling
-- **Exception Handling**: Checked vs unchecked exceptions, `try-catch-finally`, multiple and nested catch blocks, `throw` vs `throws`, custom exceptions, try-with-resources
-- **Regex & JUnit Testing**: Pattern matching, validation rules, groups, quantifiers, unit tests, assertions, test lifecycle
-- **Reflection**: Runtime class inspection, private member access, dynamic invocation, constructors, proxies, annotation processing 
-- **Annotations**: Built-in annotations, meta-annotations, custom annotations, retention policies, processors, framework usage
- 
+  
+## Day 32  Regex and junit
+**Date :** 21-Jan-2026
+**Regex** 
+- MetaCharacter
+- Quantifier
+- Common Patterns:
+-  Email Validation
+-  Password Strength
+- Phone Number Format 
+- Java Regex API 
+- Pattern
+- Matcher
+- Methods:
 
- ### Java I/O Streams (java-iostreams-practice)
- **Date :** 19-Jan-2026
-## **CSV Data Handling**:
-- **Date :** 20-Jan-2026
--  Reading/writing CSV files, OpenCSV usage, data validation, object mapping, and large-file handling
+- ## Day 33 - Introduction to Annotations and Reflection
+**Date :** 22-Jan-2026
 
--  
-- **JSON Data Handling**:
+- Common Built-in Annotations
+- Creating Custom Annotations
+- Advanced Custom Annotations
+- Real-World Use Cases
+- Annotation Processing Tools
+
+## Reflection
+- Understanding of Reflection
+- Using Reflection in Java
+- Annotations and Reflection
+
+
+### Week 5 – IO programming
+
+- ## Day 34 - CSV Data Handling 
+- **Date :** 23-Jan-2026
+  
+- Introduction to CSV
+- Reading CSV Files
+- Writing CSV Files
+- Parsing CSV Data
+- Data Validation
+
+
+ ## Day 35 -JSON DATA 
 - **Date :** 24-Jan-2026
-- JSON creation, parsing, POJO mapping, schema validation, merging datasets, CSV to JSON conversion
+  
+- Introduction to JSON
+- Reading JSON Data
+- Writing JSON Data
+- Parsing JSON Data
+- JSON Schema Validation
 
 
-### Java 8 Features (java8-programming-practice)
-**Date :** 27-Jan-2026
-- **Lambda Expressions**: Functional programming syntax and usage
-- **Functional Interfaces**: `Predicate`, `Function`, `Consumer`, `Supplier`
-- **Method References**: Static, instance, and constructor references
-- **Interface Enhancements**: Default and static methods
-- **Streams API**: Lazy evaluation, pipelines, parallel streams
-- **Collectors**: Grouping, partitioning, summarization, joining
-- **Workshop**: Real-world data processing using streams
+### Week 6 – Java 8
+-  ## Day 36 - Java 8 lambda Expression 
+- **Date :** 27-Jan-2026
+
+- Lambda Expressions
+- Method References
+
+## Day 37 -Functional Interface
+- **Date :** 28-Jan-2026
+- 1. Defining and Implementing Interfaces (Best Practices)
+- 2. Functional Interfaces
+- 3. Default and Static Methods in Interfaces
+- 4. Marker Interfaces
 
 
----
-
-## 🎓 Learnings & Best Practices
--  **Code Organization**: Following industrial standards
--  **Naming Conventions**: Camel case, Pascal case and meaningful names
--  **Version Control**: Regular commits with descriptive messages
--  **Problem-Solving**: Breaking complex problems into smaller tasks
--  **Documentation**: Clear comments and README files
----
+ ## Day 38 - Stream api
+- Intermediate operations: filter, map, flatMap, distinct, sorted, peek, limit, skip. 
+- Terminal operations: collect, forEach, reduce, count, anyMatch, allMatch, noneMatch. 
+- Stateless vs stateful operations: filter is stateless; sorted and distinct are stateful.
+- Ordered vs unordered streams
+- Parallel streams
+- forEach() — Iterable vs Stream
+  
