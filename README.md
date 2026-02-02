@@ -620,7 +620,6 @@ java-oops-practice/
 - FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)
 - GamerZone – High Score Ranking System (Quick Sort)
 - **Code Link :**[scenario - Based](https://github.com/Sunny-kumarsingh/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based/ScenarioBasedPractice/src/com)
----
 ## 02  Collections
 
 - Overview of Collections Framework
@@ -632,3 +631,52 @@ java-oops-practice/
 - Map Interface and Its Implementations
 - Comparison of Different Implementations
 - Real-World Use Cases and Best Practices.
+
+### Java Collection Framework (java-collections-practice)
+- **Generics**: Type-safe collections, generic classes and methods, type parameters, bounded types, wildcards, type erasure
+- **Collections Overview**: Purpose and benefits of Java Collections Framework
+- **Hierarchy**: `Iterable`, `Collection`, `List`, `Set`, `Queue`, and `Map`
+- **List Implementations**: `ArrayList`, `LinkedList`, `Vector`
+- **Set Implementations**: `HashSet`, `LinkedHashSet`, `TreeSet`
+- **Map Implementations**: `HashMap`, `LinkedHashMap`, `TreeMap`, `Hashtable`
+- **Queue & Deque**: `PriorityQueue`, `ArrayDeque`
+- **Hands-on Practice**: CRUD, iteration, ordering, and performance examples
+- **I/O Streams**: Byte & character streams, buffering, object serialization, and efficient file handling
+- **Exception Handling**: Checked vs unchecked exceptions, `try-catch-finally`, multiple and nested catch blocks, `throw` vs `throws`, custom exceptions, try-with-resources
+- **Regex & JUnit Testing**: Pattern matching, validation rules, groups, quantifiers, unit tests, assertions, test lifecycle
+- **Reflection**: Runtime class inspection, private member access, dynamic invocation, constructors, proxies, annotation processing 
+- **Annotations**: Built-in annotations, meta-annotations, custom annotations, retention policies, processors, framework usage
+ 
+
+ ### Java I/O Streams (java-iostreams-practice)
+ **Date :** 19-Jan-2026
+## **CSV Data Handling**:
+- **Date :** 20-Jan-2026
+-  Reading/writing CSV files, OpenCSV usage, data validation, object mapping, and large-file handling
+
+-  
+- **JSON Data Handling**:
+- **Date :** 21-Jan-2026
+- JSON creation, parsing, POJO mapping, schema validation, merging datasets, CSV to JSON conversion
+
+
+### Java 8 Features (java8-programming-practice)
+**Date :** 27-Jan-2026
+- **Lambda Expressions**: Functional programming syntax and usage
+- **Functional Interfaces**: `Predicate`, `Function`, `Consumer`, `Supplier`
+- **Method References**: Static, instance, and constructor references
+- **Interface Enhancements**: Default and static methods
+- **Streams API**: Lazy evaluation, pipelines, parallel streams
+- **Collectors**: Grouping, partitioning, summarization, joining
+- **Workshop**: Real-world data processing using streams
+
+
+---
+
+## 🎓 Learnings & Best Practices
+-  **Code Organization**: Following industrial standards
+-  **Naming Conventions**: Camel case, Pascal case and meaningful names
+-  **Version Control**: Regular commits with descriptive messages
+-  **Problem-Solving**: Breaking complex problems into smaller tasks
+-  **Documentation**: Clear comments and README files
+---
