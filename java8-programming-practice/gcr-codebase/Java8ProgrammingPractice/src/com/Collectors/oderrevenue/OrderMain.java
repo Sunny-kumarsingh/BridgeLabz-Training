@@ -2,6 +2,7 @@ package com.Collectors.oderrevenue;
 
 import java.util.Arrays;
 import java.util.List;
+import java.util.Map;
 import java.util.stream.Collectors;
 
 public class OrderMain {
@@ -13,9 +14,11 @@ public class OrderMain {
 		        new Order("Amit", 200.25)
 		); 
 		
-		Double sum = orders.stream().collect(Collectors.summingDouble(Order::getAmount));
+		Map<String, Double> revenueByCustomer= orders.stream()
+				.collect(Collectors.groupingBy(Order::getCustomerName,
+				Collectors.summingDouble(Order::getAmount)));
 		
-		System.out.println(sum);
+		System.out.println(revenueByCustomer);
 	}
 
 }
