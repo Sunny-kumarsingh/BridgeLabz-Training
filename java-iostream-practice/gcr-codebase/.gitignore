@@ -1,0 +1,27 @@
+/.metadata/
+
+
+# ===== Eclipse =====
+.project
+.classpath
+.settings/
+.metadata/
+
+# ===== Java =====
+*.class
+*.log
+
+# ===== Build folders =====
+bin/
+target/
+out/
+
+# ===== OS files =====
+.DS_Store
+Thumbs.db
+
+# ===== IDE backups =====
+*.tmp
+*.bak
+*.swp
+*.orig
