@@ -27,7 +27,8 @@ class PrintJob implements Runnable {
                     jobName + " - Page " + i + " of " + pages);
 
             try {
-                Thread.sleep(100); // 100ms per page
+            	// 100ms per page
+                Thread.sleep(100); 
             } catch (InterruptedException e) {
                 System.out.println(jobName + " interrupted.");
             }
