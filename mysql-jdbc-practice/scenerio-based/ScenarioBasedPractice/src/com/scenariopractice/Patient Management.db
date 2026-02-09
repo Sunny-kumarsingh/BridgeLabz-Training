@@ -1,0 +1,135 @@
+mysql> create database patient_management
+    -> ;
+Query OK, 1 row affected (0.05 sec)
+
+mysql> use patient_management
+Database changed
+
+mysql> CREATE TABLE patients (
+    ->     patient_id INT PRIMARY KEY AUTO_INCREMENT,
+    ->     name VARCHAR(100) NOT NULL,
+    ->     dob DATE NOT NULL,
+    ->     phone VARCHAR(15) UNIQUE NOT NULL,
+    ->     email VARCHAR(100) UNIQUE,
+    ->     address VARCHAR(255),
+    ->     blood_group VARCHAR(5)
+    -> );
+Query OK, 0 rows affected (0.09 sec)
+
+mysql> SELECT patient_id
+    -> FROM patients
+    -> WHERE phone = '9876543210'
+    ->    OR email = 'abc@gmail.com';
+Empty set (0.02 sec)
+
+mysql> INSERT INTO patients (name, dob, phone, email, address, blood_group)
+    -> VALUES (
+    ->     'Rahul Sharma',
+    ->     '1998-06-15',
+    ->     '9876543210',
+    ->     'rahul@gmail.com',
+    ->     'Delhi, India',
+    ->     'O+'
+    -> );
+Query OK, 1 row affected (0.01 sec)
+
+mysql> select * from patients where patient_id = 1;
++------------+--------------+------------+------------+-----------------+--------------+-------------+
+| patient_id | name         | dob        | phone      | email           | address      | blood_group |
++------------+--------------+------------+------------+-----------------+--------------+-------------+
+|          1 | Rahul Sharma | 1998-06-15 | 9876543210 | rahul@gmail.com | Delhi, India | O+          |
++------------+--------------+------------+------------+-----------------+--------------+-------------+
+1 row in set (0.01 sec)
+
+mysql> select * from patients where phone = "9876543210";
++------------+--------------+------------+------------+-----------------+--------------+-------------+
+| patient_id | name         | dob        | phone      | email           | address      | blood_group |
++------------+--------------+------------+------------+-----------------+--------------+-------------+
+|          1 | Rahul Sharma | 1998-06-15 | 9876543210 | rahul@gmail.com | Delhi, India | O+          |
++------------+--------------+------------+------------+-----------------+--------------+-------------+
+1 row in set (0.01 sec)
+
+mysql> update patients
+    -> set name = "Ravi Singh",
+    -> address = "Buxar (Bihar)"
+    -> where patient_id = 1;
+Query OK, 1 row affected (0.01 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+mysql> select * from patients;
++------------+------------+------------+------------+-----------------+---------------+-------------+
+| patient_id | name       | dob        | phone      | email           | address       | blood_group |
++------------+------------+------------+------------+-----------------+---------------+-------------+
+|          1 | Ravi Singh | 1998-06-15 | 9876543210 | rahul@gmail.com | Buxar (Bihar) | O+          |
++------------+------------+------------+------------+-----------------+---------------+-------------+
+1 row in set (0.00 sec)
+
+mysql> SELECT * FROM patients WHERE patient_id = 1;
++------------+------------+------------+------------+-----------------+---------------+-------------+
+| patient_id | name       | dob        | phone      | email           | address       | blood_group |
++------------+------------+------------+------------+-----------------+---------------+-------------+
+|          1 | Ravi Singh | 1998-06-15 | 9876543210 | rahul@gmail.com | Buxar (Bihar) | O+          |
++------------+------------+------------+------------+-----------------+---------------+-------------+
+1 row in set (0.01 sec)
+
+mysql> SELECT * FROM patients WHERE phone = '9876543210';
++------------+------------+------------+------------+-----------------+---------------+-------------+
+| patient_id | name       | dob        | phone      | email           | address       | blood_group |
++------------+------------+------------+------------+-----------------+---------------+-------------+
+|          1 | Ravi Singh | 1998-06-15 | 9876543210 | rahul@gmail.com | Buxar (Bihar) | O+          |
++------------+------------+------------+------------+-----------------+---------------+-------------+
+1 row in set (0.00 sec)
+
+mysql> SELECT * FROM patients WHERE name LIKE '%Sunny%';;
+Empty set (0.01 sec)
+
+ERROR:
+No query specified
+
+mysql> SELECT * FROM patients WHERE name LIKE '%Ravi%';;
++------------+------------+------------+------------+-----------------+---------------+-------------+
+| patient_id | name       | dob        | phone      | email           | address       | blood_group |
++------------+------------+------------+------------+-----------------+---------------+-------------+
+|          1 | Ravi Singh | 1998-06-15 | 9876543210 | rahul@gmail.com | Buxar (Bihar) | O+          |
++------------+------------+------------+------------+-----------------+---------------+-------------+
+1 row in set (0.00 sec)
+
+ERROR:
+No query specified
+
+mysql> CREATE TABLE appointments (
+    ->     appointment_id INT PRIMARY KEY AUTO_INCREMENT,
+    ->     patient_id INT,
+    ->     doctor_id INT,
+    ->     appointment_date DATE
+    -> );
+Query OK, 0 rows affected (0.03 sec)
+
+mysql> CREATE TABLE visits (
+    ->     visit_id INT PRIMARY KEY AUTO_INCREMENT,
+    ->     appointment_id INT,
+    ->     diagnosis VARCHAR(255),
+    ->     visit_date DATE
+    -> );
+Query OK, 0 rows affected (0.03 sec)
+
+mysql> CREATE TABLE doctors (
+    ->     doctor_id INT PRIMARY KEY AUTO_INCREMENT,
+    ->     doctor_name VARCHAR(100),
+    ->     specialization VARCHAR(100)
+    -> );
+Query OK, 0 rows affected (0.03 sec)
+
+mysql> SELECT
+    ->     v.visit_date,
+    ->     d.doctor_name,
+    ->     d.specialization,
+    ->     v.diagnosis
+    -> FROM visits v
+    -> JOIN appointments a
+    ->     ON v.appointment_id = a.appointment_id
+    -> JOIN doctors d
+    ->     ON a.doctor_id = d.doctor_id
+    -> WHERE a.patient_id = 1
+    -> ORDER BY v.visit_date ASC;
+Empty set (0.01 sec)
